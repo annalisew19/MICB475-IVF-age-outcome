@@ -223,3 +223,39 @@ ggsave("Faith_PD_linear_reg.png",
        height = 4,
        width = 6)
 
+#### Taxonomic Analysis ####
+# Plot bar plot of taxonomy
+plot_bar(ivf_rare, fill = "Genus")
+
+# Convert absolute number to relative abundance 
+ivf_RA <- transform_sample_counts(ivf_rare, function(x) x/sum(x))
+
+# To remove black bars, "glom" by Genus first 
+ivf_genus <- tax_glom(ivf_RA, taxrank = "Genus", NArm = FALSE)
+
+# Ensure 'age_outcome' metadata column is still present in metadata after tax_glom
+sample_data(ivf_species)$age_outcome <- sample_data(ivf_rare)$age_outcome
+sample_data(ivf_genus)$outcome <- factor(sample_data(ivf_genus)$outcome, 
+                                         levels = c("successful", "unsuccessful"),
+                                         labels = c("Successful", "Unsuccessful"))
+
+# Plot bar plot
+tax_bar_plot <- plot_bar(ivf_genus, fill = "Genus") +
+  facet_wrap(outcome ~ age_group, nrow = 2, ncol = 5, scales = "free_x") +  
+  labs(x = "Samples", y = "Relative Abundance", title = "Taxonomic Composition by Age & Outcome") +
+  scale_y_continuous(labels = scales::percent) +
+  theme_minimal() +
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        strip.text = element_text(face = "bold", size = 12))
+
+ggsave("tax_composition_genus.png",
+       tax_bar_plot,
+       height = 10,
+       width = 12)
+
+
+
+
+
+
