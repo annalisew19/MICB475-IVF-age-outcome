@@ -1,0 +1,143 @@
+## IMPORTING
+
+# import data
+qiime tools import \
+  --type "SampleData[SequencesWithQuality]" \
+  --input-format SingleEndFastqManifestPhred33V2 \
+  --input-path /data/imported_from_server/IVF_manifest.tsv \
+  --output-path /data/michelle_test/ivf_demux_seqs.qza
+
+# create visualization of demultiplexed samples
+qiime demux summarize \
+  --i-data ivf_demux_seqs.qza \
+  --o-visualization ivf_demux_seqs.qzv
+
+##DENOISING
+
+# determine ASVs with DADA2
+qiime dada2 denoise-single \
+  --i-demultiplexed-seqs ivf_demux_seqs.qza \
+  --p-trim-left 0 \
+  --p-trunc-len 303 \
+  --o-representative-sequences ivf-rep-seqs.qza \
+  --o-table ivf-table.qza \
+  --o-denoising-stats ivf-stats.qza
+
+# create visualization of DADA2 stats
+qiime metadata tabulate \
+  --m-input-file ivf-stats.qza \
+  --o-visualization ivf-stats.qzv
+
+# create visualization of ASV stats - Feature table
+qiime feature-table summarize \
+  --i-table ivf-table.qza \
+  --o-visualization ivf-table.qzv \
+  --m-sample-metadata-file /mnt/datasets/project_2/IVF/IVF_metadata.tsv
+
+# create visualization of ASV stats - Representative sequences
+qiime feature-table tabulate-seqs \
+  --i-data ivf-rep-seqs.qza \
+  --o-visualization ivf-rep-seqs.qzv
+
+# training classifier, trained over entire database because many variable regions sequenced by paper
+qiime feature-classifier extract-reads \
+  --i-sequences ref-otus.qza \ (replace this with the representative sequence file on server)
+  --p-f-primer GTGCCAGCMGCCGCGGTAA \
+  --p-r-primer GGACTACHVGGGTWTCTAAT \
+  --p-trunc-len 303 \
+  --o-reads ref-seqs-trimmed.qza
+
+# taxonomic analysis using untrained classifier
+qiime feature-classifier classify-sklearn \
+  --i-classifier /mnt/datasets/classifiers/silva-138-99-nb-classifier.qza \
+  --i-reads ivf-rep-seqs.qza \
+  --o-classification IVF_taxonomy.qza
+
+##DENOISING
+
+# filtering out mitochondria & chloroplast from table
+qiime taxa filter-table \
+  --i-table ivf-table.qza \
+  --i-taxonomy IVF_taxonomy.qza \
+  --p-exclude mitochondria,chloroplast \
+  --o-filtered-table ivf-table-omit-mitochondria-chloroplast.qza
+
+# create visualization of ASV stats - Filtered table - omitted mitochondria & chloroplast
+qiime feature-table summarize \
+  --i-table ivf-table-omit-mitochondria-chloroplast.qza \
+  --o-visualization ivf-table-omit-mitochondria-chloroplast.qzv \
+  --m-sample-metadata-file /mnt/datasets/project_2/IVF/IVF_metadata.tsv
+
+# filtering out NA in the AGE column of metadata
+  qiime feature-table filter-samples \
+  --i-table ivf-table-omit-mitochondria-chloroplast.qza \
+  --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
+  --p-where "[AGE] != 'NA'" \
+  --o-filtered-table ivf-filtered-table-no-age-NA.qza
+
+#creating visualization of ASV stats filtered table - with omitted mitochondria & chloroplast + NA in age
+  qiime feature-table summarize \
+  --i-table ivf-filtered-table-no-age-NA.qza \
+  --o-visualization ivf-filtered-table-no-age-NA.qzv \
+  --m-sample-metadata-file /data/imported_from_server/IVF_metadata.tsv
+
+# generate a tree for phylogenetic diversity analyses
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences ivf-rep-seqs.qza \
+  --o-alignment ivf-aligned-rep-seqs.qza \
+  --o-masked-alignment ivf-masked-aligned-rep-seqs.qza \
+  --o-tree ivf-unrooted-tree.qza \
+  --o-rooted-tree ivf-rooted-tree.qza
+  --i-table ivf-filtered-table-no-age-NA.qza \
+  --o-visualization ivf-filtered-table-no-age-NA.qzv \
+  --m-sample-metadata-file /data/imported_from_server/IVF_metadata.tsv
+
+# alpha-rarefaction
+qiime diversity alpha-rarefaction \
+  --i-table ivf-filtered-table-no-age-NA.qza \
+  --i-phylogeny ivf-rooted-tree.qza \
+  --p-max-depth 44161 \
+  --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
+  --o-visualization ivf-alpha-rarefaction.qzv
+
+# calculate alpha- and beta-diversity metrics
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny ivf-rooted-tree.qza \
+  --i-table ivf-filtered-table-no-age-NA.qza \
+  --p-sampling-depth 5000 \
+  --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
+  --output-dir ivf-core-metrics-results-5000
+
+# Visualizing diversity metrics as .qzv files 
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity faith_pd_vector.qza \
+  --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
+  --o-visualization faith-pd-group-significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity evenness_vector.qza \
+  --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
+  --o-visualization evenness-group-significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity shannon_vector.qza \
+  --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
+  --o-visualization shannon_vector.qzv
+
+# Exporting files 
+qiime tools export \
+--input-path ../ivf_data/ivf-table.qza \
+--output-path ivf-table_export 
+
+biom convert \
+-i feature-table.biom \
+--to-tsv \
+-o feature-table.txt
+
+qiime tools export \
+--input-path ../ivf_data/ivf-rooted-tree.qza \
+--output-path ivf-rooted-tree_export 
+
+qiime tools export \
+--input-path ../ivf_data/IVF_taxonomy.qza \
+--output-path ivf_taxonomy_export 
