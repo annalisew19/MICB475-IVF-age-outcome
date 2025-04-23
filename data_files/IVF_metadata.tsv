@@ -1,0 +1,825 @@
+sample-id	AGE	BIOMATERIAL_PROVIDER	BioSampleModel	disease	isolate	Library Name	Organism	Sample Name	sex	tissue
+SRR15561605	41	10	Human	No pregnancy	10-014-EF1	10014LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	10014LE1	female	endometrial fluid
+SRR15561606	45	10	Human	No pregnancy	10-013-EF1	10013LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	10013LE1	female	endometrial fluid
+SRR15561607	32	2	Human	Ongoing pregnancy	02-044-EF1	IDE19Y0442_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0442	female	endometrial biopsy
+SRR15561608	41	10	Human	Live birth	10-012-EF1	10012LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	10012LE1	female	endometrial fluid
+SRR15561609	42	10	Human	Live birth	10-011-EF1	10011LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	10011LE1	female	endometrial fluid
+SRR15561610	39	10	Human	Live birth	10-010-EF1	10010LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	10010LE1	female	endometrial fluid
+SRR15561611	45	10	Human	No pregnancy	10-009-EF1	10009LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	10009LE1	female	endometrial fluid
+SRR15561612	37	10	Human	Biochemical pregnancy	10-008-EF1	10008LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	10008LE1	female	endometrial fluid
+SRR15561613	35	10	Human	No pregnancy	10-007-EF1	10007LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	10007LE1	female	endometrial fluid
+SRR15561614	43	10	Human	Live birth	10-004-EF1	10004LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	10004LE1	female	endometrial fluid
+SRR15561615	38	9	Human	No pregnancy	09-002-EF1	IDE19Y0332_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0332	female	endometrial biopsy
+SRR15561616	34	9	Human	Clinical miscarriage	09-001-EF1	IDE19Y0300_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0300	female	endometrial biopsy
+SRR15561617	45	6	Human	Clinical miscarriage	06-019-EF1	IDE19Y0395_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0395	female	endometrial biopsy
+SRR15561618	28	6	Human	No pregnancy	06-018-EF1	IDE19Y0106_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0106	female	endometrial biopsy
+SRR15561619	31	1	Human	Live birth	01-018-EF1	IDE19Y0081_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0081	female	endometrial biopsy
+SRR15561620	44	6	Human	No pregnancy	06-017-EF1	IDE19Y0366_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0366	female	endometrial biopsy
+SRR15561621	37	6	Human	No pregnancy	06-015-EF1	IDE19Y0173_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0173	female	endometrial biopsy
+SRR15561622	45	6	Human	No pregnancy	06-013-EF1	IDE19Y0282_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0282	female	endometrial biopsy
+SRR15561623	41	6	Human	Biochemical pregnancy	06-012-EF1	IDE19Y0350_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0350	female	endometrial biopsy
+SRR15561624	40	6	Human	No pregnancy	06-011-EF2	IDE19Y0220_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0220	female	endometrial biopsy
+SRR15561625	40	6	Human	NA: Not Applicable	06-011-EF1	IDE19Y0314_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0314	female	endometrial biopsy
+SRR15561626	41	6	Human	No pregnancy	06-010-EF1	IDE19Y0281_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0281	female	endometrial biopsy
+SRR15561627	40	6	Human	Clinical miscarriage	06-009-EF1	IDE19Y0160_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0160	female	endometrial biopsy
+SRR15561628	41	6	Human	Biochemical pregnancy	06-008-EF1	IDE19Y0264_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0264	female	endometrial biopsy
+SRR15561629	47	6	Human	Biochemical pregnancy	06-006-EF1	IDE19Y0347_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0347	female	endometrial biopsy
+SRR15561630	39	1	Human	No pregnancy	01-016-EF1	IDE19Y0215_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0215	female	endometrial biopsy
+SRR15561631	45	6	Human	No pregnancy	06-005-EF1	IDE19Y0269_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0269	female	endometrial biopsy
+SRR15561632	43	6	Human	No pregnancy	06-003-EF1	IDE19Y0263_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0263	female	endometrial biopsy
+SRR15561633	43	6	Human	No pregnancy	06-002-EF1	IDE19Y0266_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0266	female	endometrial biopsy
+SRR15561634	39	6	Human	No pregnancy	06-001-EF1	IDE19Y0249_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0249	female	endometrial biopsy
+SRR15561635	31	5	Human	No pregnancy	05-013-EF1	IDE19Y0464_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0464	female	endometrial biopsy
+SRR15561636	34	5	Human	Live birth	05-012-EF1	IDE19Y0392_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0392	female	endometrial biopsy
+SRR15561637	36	5	Human	No pregnancy	05-011-EF1	IDE19Y0181_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0181	female	endometrial biopsy
+SRR15561638	47	5	Human	Live birth	05-010-EF1	IDE19Y0248_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0248	female	endometrial biopsy
+SRR15561639	43	10	Human	Biochemical pregnancy	10-003-EF1	10003LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	10003LE1	female	endometrial fluid
+SRR15561640	38	10	Human	No pregnancy	10-002-EF1	10002LE1_S5XL-IGENOMIX-155-RUN11	Homo sapiens	10002LE1	female	endometrial fluid
+SRR15561641	31	10	Human	Live birth	10-001-EF1	10001LE1_S5XL-IGENOMIX-110-Run	Homo sapiens	10001LE1	female	endometrial fluid
+SRR15561642	39	2	Human	No pregnancy	02-043-EF1	IDE19Y0462_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0462	female	endometrial biopsy
+SRR15561643	28	9	Human	Ongoing pregnancy	09-058-EF1	9058LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	9058LE1	female	endometrial fluid
+SRR15561644	37	9	Human	No pregnancy	09-057-EF1	9057LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	9057LE1	female	endometrial fluid
+SRR15561645	38	9	Human	Live birth	09-056-EF1	9056LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	9056LE1	female	endometrial fluid
+SRR15561646	34	9	Human	Clinical miscarriage	09-055-EF1	9055LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	9055LE1	female	endometrial fluid
+SRR15561647	34	9	Human	Ongoing pregnancy	09-051-EF1	9051LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	9051LE1	female	endometrial fluid
+SRR15561648	40	9	Human	No pregnancy	09-049-EF1	9049LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	9049LE1	female	endometrial fluid
+SRR15561649	41	9	Human	Ongoing pregnancy	09-048-EF1	9048LE1_S5XL-00245-942-Run11	Homo sapiens	9048LE1	female	endometrial fluid
+SRR15561650	28	9	Human	No pregnancy	09-046-EF1	9046LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	9046LE1	female	endometrial fluid
+SRR15561651	41	9	Human	Live birth	09-043-EF1	9043LE1_S5XL-00245-942-Run11	Homo sapiens	9043LE1	female	endometrial fluid
+SRR15561652	29	9	Human	No pregnancy	09-042-EF1	9042LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	9042LE1	female	endometrial fluid
+SRR15561653	35	2	Human	Biochemical pregnancy	02-042-EF1	IDE19Y0154_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0154	female	endometrial biopsy
+SRR15561654	37	1	Human	Live birth	01-004-EF1	IDE19Y0303_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0303	female	endometrial biopsy
+SRR15561655	40	9	Human	No pregnancy	09-041-EF1	9041LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	9041LE1	female	endometrial fluid
+SRR15561656	45	9	Human	Clinical miscarriage	09-040-EF2	9040LE2_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	9040LE2	female	endometrial fluid
+SRR15561657	45	9	Human	NA: Not Applicable	09-040-EF1	9040LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	9040LE1	female	endometrial fluid
+SRR15561658	44	9	Human	No pregnancy	09-036-EF1	9036LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	9036LE1	female	endometrial fluid
+SRR15561659	45	9	Human	No pregnancy	09-035-EF1	9035LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	9035LE1	female	endometrial fluid
+SRR15561660	33	9	Human	No pregnancy	09-033-EF1	9033LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	9033LE1	female	endometrial fluid
+SRR15561661	41	9	Human	Live birth	09-032-EF1	9032LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	9032LE1	female	endometrial fluid
+SRR15561662	38	9	Human	No pregnancy	09-030-EF1	9030LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	9030LE1	female	endometrial fluid
+SRR15561663	45	9	Human	Live birth	09-028-EF1	9028LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	9028LE1	female	endometrial fluid
+SRR15561664	37	5	Human	No pregnancy	05-009-EF1	IDE19Y0030_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0030	female	endometrial biopsy
+SRR15561665	40	5	Human	Live birth	05-008-EF2	IDE19Y0310_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0310	female	endometrial biopsy
+SRR15561666	34	1	Human	Clinical miscarriage	01-015-EF1	IDE19Y0142_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0142	female	endometrial biopsy
+SRR15561667	40	5	Human	NA: Not Applicable	05-008-EF1	IDE19Y0112_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0112	female	endometrial biopsy
+SRR15561668	34	5	Human	No pregnancy	05-007-EF1	IDE19Y0458_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0458	female	endometrial biopsy
+SRR15561669	34	5	Human	No pregnancy	05-006-EF1	IDE19Y0035_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0035	female	endometrial biopsy
+SRR15561670	36	5	Human	Biochemical pregnancy	05-005-EF1	IDE19Y0345_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0345	female	endometrial biopsy
+SRR15561671	39	5	Human	Live birth	05-003-EF1	IDE19Y0051_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0051	female	endometrial biopsy
+SRR15561672	35	5	Human	Live birth	05-002-EF2	IDE19Y0336_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0336	female	endometrial biopsy
+SRR15561673	35	5	Human	NA: Not Applicable	05-002-EF1	IDE19Y0058_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0058	female	endometrial biopsy
+SRR15561674	36	4	Human	Live birth	04-027-EF1	IDE19Y0162_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0162	female	endometrial biopsy
+SRR15561675	33	4	Human	Biochemical pregnancy	04-043-EF1	IDE19Y0250_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0250	female	endometrial biopsy
+SRR15561676	37	4	Human	Biochemical pregnancy	04-041-EF1	IDE19Y0200_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0200	female	endometrial biopsy
+SRR15561677	36	1	Human	No pregnancy	01-014-EF1	IDE19Y0028_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0028	female	endometrial biopsy
+SRR15561678	40	4	Human	No pregnancy	04-040-EF1	IDE19Y0159_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0159	female	endometrial biopsy
+SRR15561679	30	4	Human	No pregnancy	04-038-EF1	IDE19Y0156_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0156	female	endometrial biopsy
+SRR15561680	29	4	Human	No pregnancy	04-037-EF1	IDE19Y0138_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0138	female	endometrial biopsy
+SRR15561681	38	4	Human	Live birth	04-035-EF1	IDE19Y0126_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0126	female	endometrial biopsy
+SRR15561682	37	4	Human	Biochemical pregnancy	04-034-EF1	IDE19Y0116_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0116	female	endometrial biopsy
+SRR15561683	33	4	Human	No pregnancy	04-032-EF1	IDE19Y0114_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0114	female	endometrial biopsy
+SRR15561684	29	4	Human	Live birth	04-031-EF1	IDE19Y0117_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0117	female	endometrial biopsy
+SRR15561685	37	4	Human	No pregnancy	04-030-EF1	IDE19Y0038_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0038	female	endometrial biopsy
+SRR15561686	40	4	Human	No pregnancy	04-029-EF1	IDE19Y0037_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0037	female	endometrial biopsy
+SRR15561687	35	4	Human	Clinical miscarriage	04-028-EF1	IDE19Y0467_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0467	female	endometrial biopsy
+SRR15561688	36	9	Human	Clinical miscarriage	09-027-EF1	9027LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	9027LE1	female	endometrial fluid
+SRR15561689	39	2	Human	Live birth	02-039-EF1	IDE19Y0108_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0108	female	endometrial biopsy
+SRR15561690	38	9	Human	No pregnancy	09-025-EF2	9025LE2_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	9025LE2	female	endometrial fluid
+SRR15561691	38	9	Human	NA: Not Applicable	09-025-EF1	9025LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	9025LE1	female	endometrial fluid
+SRR15561692	37	9	Human	No pregnancy	09-022-EF1	9022LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	9022LE1	female	endometrial fluid
+SRR15561693	28	9	Human	No pregnancy	09-021-EF1	9021LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	9021LE1	female	endometrial fluid
+SRR15561694	42	9	Human	Live birth	09-019-EF1	9019LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	9019LE1	female	endometrial fluid
+SRR15561695	30	9	Human	Live birth	09-018-EF1	9018LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	9018LE1	female	endometrial fluid
+SRR15561696	34	9	Human	No pregnancy	09-017-EF1	9017LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	9017LE1	female	endometrial fluid
+SRR15561697	43	9	Human	Biochemical pregnancy	09-016-EF1	9016LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	9016LE1	female	endometrial fluid
+SRR15561698	40	9	Human	No pregnancy	09-015-EF1	9015LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	9015LE1	female	endometrial fluid
+SRR15561699	39	9	Human	Biochemical pregnancy	09-013-EF1	9013LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	9013LE1	female	endometrial fluid
+SRR15561700	40	2	Human	Live birth	02-038-EF1	IDE19Y0110_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0110	female	endometrial biopsy
+SRR15561701	39	9	Human	Clinical miscarriage	09-012-EF1	9012LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	9012LE1	female	endometrial fluid
+SRR15561702	38	9	Human	Live birth	09-011-EF1	9011LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	9011LE1	female	endometrial fluid
+SRR15561703	31	9	Human	No pregnancy	09-010-EF1	9010LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	9010LE1	female	endometrial fluid
+SRR15561704	39	9	Human	Biochemical pregnancy	09-009-EF1	9009LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	9009LE1	female	endometrial fluid
+SRR15561705	46	9	Human	Clinical miscarriage	09-008-EF1	9008LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	9008LE1	female	endometrial fluid
+SRR15561706	43	9	Human	Live birth	09-005-EF1	9005LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	9005LE1	female	endometrial fluid
+SRR15561707	38	9	Human	No pregnancy	09-002-EF1	9002LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	9002LE1	female	endometrial fluid
+SRR15561708	34	9	Human	Clinical miscarriage	09-001-EF1	9001LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	9001LE1	female	endometrial fluid
+SRR15561709	45	6	Human	Clinical miscarriage	06-019-EF1	6019LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	6019LE1	female	endometrial fluid
+SRR15561710	28	6	Human	No pregnancy	06-018-EF1	6018LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	6018LE1	female	endometrial fluid
+SRR15561711	33	2	Human	Live birth	02-035-EF1	IDE19Y0066_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0066	female	endometrial biopsy
+SRR15561712	44	6	Human	No pregnancy	06-017-EF1	6017LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	6017LE1	female	endometrial fluid
+SRR15561713	37	6	Human	No pregnancy	06-015-EF1	6015LE1_S5XL-00245-942-Run11	Homo sapiens	6015LE1	female	endometrial fluid
+SRR15561714	45	6	Human	No pregnancy	06-013-EF1	6013LE1_S5XL-00245-942-Run11	Homo sapiens	6013LE1	female	endometrial fluid
+SRR15561715	41	6	Human	Biochemical pregnancy	06-012-EF1	6012LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	6012LE1	female	endometrial fluid
+SRR15561716	40	6	Human	No pregnancy	06-011-EF2	6011LE2_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	6011LE2	female	endometrial fluid
+SRR15561717	40	6	Human	NA: Not Applicable	06-011-EF1	6011LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	6011LE1	female	endometrial fluid
+SRR15561718	41	6	Human	No pregnancy	06-010-EF1	6010LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	6010LE1	female	endometrial fluid
+SRR15561719	40	6	Human	Clinical miscarriage	06-009-EF1	6009LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	6009LE1	female	endometrial fluid
+SRR15561720	41	6	Human	Biochemical pregnancy	06-008-EF1	6008LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	6008LE1	female	endometrial fluid
+SRR15561721	47	6	Human	Biochemical pregnancy	06-006-EF1	6006LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	6006LE1	female	endometrial fluid
+SRR15561722	38	2	Human	Biochemical pregnancy	02-034-EF1	IDE19Y0076_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0076	female	endometrial biopsy
+SRR15561723	45	6	Human	No pregnancy	06-005-EF1	6005LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	6005LE1	female	endometrial fluid
+SRR15561724	43	6	Human	No pregnancy	06-003-EF1	6003LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	6003LE1	female	endometrial fluid
+SRR15561725	43	6	Human	No pregnancy	06-002-EF1	6002LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	6002LE1	female	endometrial fluid
+SRR15561726	39	6	Human	No pregnancy	06-001-EF1	6001LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	6001LE1	female	endometrial fluid
+SRR15561727	31	5	Human	No pregnancy	05-013-EF1	5013LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	5013LE1	female	endometrial fluid
+SRR15561728	34	5	Human	Live birth	05-012-EF1	5012LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	5012LE1	female	endometrial fluid
+SRR15561729	36	5	Human	No pregnancy	05-011-EF1	5011LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	5011LE1	female	endometrial fluid
+SRR15561730	47	5	Human	Live birth	05-010-EF1	5010LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	5010LE1	female	endometrial fluid
+SRR15561731	37	5	Human	No pregnancy	05-009-EF1	5009LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	5009LE1	female	endometrial fluid
+SRR15561732	40	5	Human	Live birth	05-008-EF2	5008LE2_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	5008LE2	female	endometrial fluid
+SRR15561733	38	2	Human	Live birth	02-030-EF1	IDE19Y0401_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0401	female	endometrial biopsy
+SRR15561734	40	5	Human	NA: Not Applicable	05-008-EF1	5008LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	5008LE1	female	endometrial fluid
+SRR15561735	34	5	Human	No pregnancy	05-007-EF1	5007LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	5007LE1	female	endometrial fluid
+SRR15561736	34	5	Human	No pregnancy	05-006-EF1	5006LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	5006LE1	female	endometrial fluid
+SRR15561737	36	5	Human	Biochemical pregnancy	05-005-EF1	5005LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	5005LE1	female	endometrial fluid
+SRR15561738	39	5	Human	Live birth	05-003-EF1	5003LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	5003LE1	female	endometrial fluid
+SRR15561739	35	5	Human	Live birth	05-002-EF2	5002LE2_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	5002LE2	female	endometrial fluid
+SRR15561740	35	5	Human	NA: Not Applicable	05-002-EF1	5002LE1_S5XL-IGENOMIX-155-RUN11	Homo sapiens	5002LE1	female	endometrial fluid
+SRR15561741	36	4	Human	Live birth	04-027-EF1	4027LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	4027LE1	female	endometrial fluid
+SRR15561742	33	4	Human	Biochemical pregnancy	04-043-EF1	4043LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	4043LE1	female	endometrial fluid
+SRR15561743	37	4	Human	Biochemical pregnancy	04-041-EF1	4041LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	4041LE1	female	endometrial fluid
+SRR15561744	33	2	Human	Biochemical pregnancy	02-027-EF1	IDE19Y0379_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0379	female	endometrial biopsy
+SRR15561745	40	4	Human	No pregnancy	04-040-EF1	4040LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	4040LE1	female	endometrial fluid
+SRR15561746	30	4	Human	No pregnancy	04-038-EF1	4038LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	4038LE1	female	endometrial fluid
+SRR15561747	29	4	Human	No pregnancy	04-037-EF1	4037LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	4037LE1	female	endometrial fluid
+SRR15561748	38	4	Human	Live birth	04-035-EF1	4035LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	4035LE1	female	endometrial fluid
+SRR15561749	37	4	Human	Biochemical pregnancy	04-034-EF1	4034LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	4034LE1	female	endometrial fluid
+SRR15561750	33	4	Human	No pregnancy	04-032-EF1	4032LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	4032LE1	female	endometrial fluid
+SRR15561751	29	4	Human	Live birth	04-031-EF1	4031LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	4031LE1	female	endometrial fluid
+SRR15561752	37	4	Human	No pregnancy	04-030-EF1	4030LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	4030LE1	female	endometrial fluid
+SRR15561753	40	4	Human	No pregnancy	04-029-EF1	4029LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	4029LE1	female	endometrial fluid
+SRR15561754	35	4	Human	Clinical miscarriage	04-028-EF1	4028LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	4028LE1	female	endometrial fluid
+SRR15561755	31	2	Human	Biochemical pregnancy	02-026-EF1	IDE19Y0365_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0365	female	endometrial biopsy
+SRR15561756	39	4	Human	No pregnancy	04-026-EF1	4026LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	4026LE1	female	endometrial fluid
+SRR15561757	26	4	Human	Live birth	04-025-EF1	4025LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	4025LE1	female	endometrial fluid
+SRR15561758	32	4	Human	No pregnancy	04-024-EF1	4024LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	4024LE1	female	endometrial fluid
+SRR15561759	30	4	Human	No pregnancy	04-023-EF1	4023LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	4023LE1	female	endometrial fluid
+SRR15561760	34	4	Human	No pregnancy	04-022-EF1	4022LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	4022LE1	female	endometrial fluid
+SRR15561761	38	4	Human	No pregnancy	04-021-EF1	4021LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	4021LE1	female	endometrial fluid
+SRR15561762	33	4	Human	Live birth	04-020-EF1	4020LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	4020LE1	female	endometrial fluid
+SRR15561763	29	4	Human	Ectopic pregnancy	04-019-EF1	4019LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	4019LE1	female	endometrial fluid
+SRR15561764	31	4	Human	Live birth	04-018-EF1	4018LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	4018LE1	female	endometrial fluid
+SRR15561765	35	4	Human	No pregnancy	04-017-EF1	4017LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	4017LE1	female	endometrial fluid
+SRR15561766	37	2	Human	Live birth	02-025-EF1	IDE19Y0361_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0361	female	endometrial biopsy
+SRR15561767	30	4	Human	No pregnancy	04-016-EF2	4016LE2_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	4016LE2	female	endometrial fluid
+SRR15561768	30	4	Human	NA: Not Applicable	04-016-EF1	4016LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	4016LE1	female	endometrial fluid
+SRR15561769	36	4	Human	No pregnancy	04-014-EF1	4014LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	4014LE1	female	endometrial fluid
+SRR15561770	35	4	Human	No pregnancy	04-013-EF1	4013LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	4013LE1	female	endometrial fluid
+SRR15561771	40	4	Human	No pregnancy	04-012-EF1	4012LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	4012LE1	female	endometrial fluid
+SRR15561772	37	4	Human	No pregnancy	04-011-EF1	4011LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	4011LE1	female	endometrial fluid
+SRR15561773	33	4	Human	No pregnancy	04-010-EF1	4010LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	4010LE1	female	endometrial fluid
+SRR15561774	38	4	Human	No pregnancy	04-009-EF1	4009LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	4009LE1	female	endometrial fluid
+SRR15561775	28	4	Human	Live birth	04-008-EF1	4008LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	4008LE1	female	endometrial fluid
+SRR15561776	34	4	Human	Clinical miscarriage	04-007-EF1	4007LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	4007LE1	female	endometrial fluid
+SRR15561777	31	2	Human	Biochemical pregnancy	02-023-EF1	IDE19Y0358_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0358	female	endometrial biopsy
+SRR15561778	36	4	Human	Live birth	04-006-EF1	4006LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	4006LE1	female	endometrial fluid
+SRR15561779	34	4	Human	No pregnancy	04-005-EF1	4005LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	4005LE1	female	endometrial fluid
+SRR15561780	37	4	Human	No pregnancy	04-004-EF1	4004LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	4004LE1	female	endometrial fluid
+SRR15561781	38	4	Human	No pregnancy	04-003-EF1	4003LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	4003LE1	female	endometrial fluid
+SRR15561782	36	3	Human	No pregnancy	03-046-EF1	3046LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	3046LE1	female	endometrial fluid
+SRR15561783	42	3	Human	No pregnancy	03-045-EF1	3045LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	3045LE1	female	endometrial fluid
+SRR15561784	44	3	Human	No pregnancy	03-044-EF1	3044LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	3044LE1	female	endometrial fluid
+SRR15561785	40	3	Human	No pregnancy	03-042-EF1	3042LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	3042LE1	female	endometrial fluid
+SRR15561786	45	3	Human	Live birth	03-041-EF1	3041LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	3041LE1	female	endometrial fluid
+SRR15561787	40	3	Human	Live birth	03-040-EF1	3040LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	3040LE1	female	endometrial fluid
+SRR15561788	32	2	Human	Live birth	02-022-EF1	IDE19Y0283_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0283	female	endometrial biopsy
+SRR15561789	36	1	Human	No pregnancy	01-003-EF2	IDE19Y0409_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0409	female	endometrial biopsy
+SRR15561790	32	3	Human	No pregnancy	03-039-EF1	3039LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	3039LE1	female	endometrial fluid
+SRR15561791	40	3	Human	No pregnancy	03-038-EF1	3038LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	3038LE1	female	endometrial fluid
+SRR15561792	40	3	Human	Live birth	03-037-EF1	3037LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	3037LE1	female	endometrial fluid
+SRR15561793	43	3	Human	Live birth	03-036-EF1	3036LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	3036LE1	female	endometrial fluid
+SRR15561794	44	3	Human	Live birth	03-034-EF1	3034LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	3034LE1	female	endometrial fluid
+SRR15561795	49	3	Human	No pregnancy	03-032-EF1	3032LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	3032LE1	female	endometrial fluid
+SRR15561796	49	3	Human	No pregnancy	03-030-EF1	3030LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	3030LE1	female	endometrial fluid
+SRR15561797	44	3	Human	No pregnancy	03-027-EF1	3027LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	3027LE1	female	endometrial fluid
+SRR15561798	43	3	Human	No pregnancy	03-024-EF1	3024LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	3024LE1	female	endometrial fluid
+SRR15561799	40	3	Human	Ongoing pregnancy	03-023-EF1	3023LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	3023LE1	female	endometrial fluid
+SRR15561800	34	2	Human	No pregnancy	02-021-EF1	IDE19Y0268_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0268	female	endometrial biopsy
+SRR15561801	44	3	Human	Live birth	03-021-EF1	3021LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	3021LE1	female	endometrial fluid
+SRR15561802	44	3	Human	Live birth	03-019-EF1	3019LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	3019LE1	female	endometrial fluid
+SRR15561803	42	3	Human	No pregnancy	03-018-EF1	3018LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	3018LE1	female	endometrial fluid
+SRR15561804	40	3	Human	Live birth	03-017-EF1	3017LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	3017LE1	female	endometrial fluid
+SRR15561805	40	3	Human	Live birth	03-015-EF1	3015LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	3015LE1	female	endometrial fluid
+SRR15561806	43	3	Human	Live birth	03-014-EF1	3014LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	3014LE1	female	endometrial fluid
+SRR15561807	30	3	Human	Live birth	03-013-EF1	3013LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	3013LE1	female	endometrial fluid
+SRR15561808	32	3	Human	Live birth	03-012-EF1	3012LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	3012LE1	female	endometrial fluid
+SRR15561809	36	1	Human	Live birth	01-012-EF1	IDE19Y0034_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0034	female	endometrial biopsy
+SRR15561810	33	1	Human	Live birth	01-001-EF2	IDE19Y0412_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0412	female	endometrial biopsy
+SRR15561811	33	1	Human	NA: Not Applicable	01-001-EF1	IDE19Y0048_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0048	female	endometrial biopsy
+SRR15561812	35	3	Human	NA: Not Applicable	03-011-EF1	3011LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	3011LE1	female	endometrial fluid
+SRR15561813	42	3	Human	Clinical miscarriage	03-008-EF1	3008LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	3008LE1	female	endometrial fluid
+SRR15561814	44	2	Human	Live birth	02-020-EF1	IDE19Y0402_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0402	female	endometrial biopsy
+SRR15561815	39	3	Human	No pregnancy	03-006-EF1	3006LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	3006LE1	female	endometrial fluid
+SRR15561816	41	3	Human	No pregnancy	03-005-EF1	3005LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	3005LE1	female	endometrial fluid
+SRR15561817	45	3	Human	Biochemical pregnancy	03-003-EF1	3003LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	3003LE1	female	endometrial fluid
+SRR15561818	38	2	Human	No pregnancy	02-046-EF1	2RMA046LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	2RMA046LE1	female	endometrial fluid
+SRR15561819	26	2	Human	Live birth	02-045-EF1	2RMA045LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	2RMA045LE1	female	endometrial fluid
+SRR15561820	32	2	Human	Ongoing pregnancy	02-044-EF1	2RMA044LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	2RMA044LE1	female	endometrial fluid
+SRR15561821	39	2	Human	No pregnancy	02-043-EF1	2RMA043LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	2RMA043LE1	female	endometrial fluid
+SRR15561822	35	2	Human	Biochemical pregnancy	02-042-EF1	2RMA042LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	2RMA042LE1	female	endometrial fluid
+SRR15561823	33	2	Human	Live birth	02-041-EF1	2RMA041LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	2RMA041LE1	female	endometrial fluid
+SRR15561824	39	2	Human	Live birth	02-039-EF1	2RMA039LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	2RMA039LE1	female	endometrial fluid
+SRR15561825	36	2	Human	No pregnancy	02-019-EF1	IDE19Y0210_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0210	female	endometrial biopsy
+SRR15561826	40	2	Human	Live birth	02-038-EF1	2RMA038LE1_S5XL-00245-942-Run11	Homo sapiens	2RMA038LE1	female	endometrial fluid
+SRR15561827	33	2	Human	Live birth	02-035-EF1	2RMA035LE1_S5XL-00245-942-Run11	Homo sapiens	2RMA035LE1	female	endometrial fluid
+SRR15561828	38	2	Human	Biochemical pregnancy	02-034-EF1	2RMA034LE1_S5XL-00245-942-Run11	Homo sapiens	2RMA034LE1	female	endometrial fluid
+SRR15561829	38	2	Human	Live birth	02-030-EF1	2RMA030LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	2RMA030LE1	female	endometrial fluid
+SRR15561830	33	2	Human	Biochemical pregnancy	02-027-EF1	2RMA027LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	2RMA027LE1	female	endometrial fluid
+SRR15561831	31	2	Human	Biochemical pregnancy	02-026-EF1	2RMA026LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	2RMA026LE1	female	endometrial fluid
+SRR15561832	37	2	Human	Live birth	02-025-EF1	2RMA025LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	2RMA025LE1	female	endometrial fluid
+SRR15561833	31	2	Human	Biochemical pregnancy	02-023-EF1	2RMA023LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	2RMA023LE1	female	endometrial fluid
+SRR15561834	32	2	Human	Live birth	02-022-EF1	2RMA022LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	2RMA022LE1	female	endometrial fluid
+SRR15561835	34	2	Human	No pregnancy	02-021-EF1	2RMA021LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	2RMA021LE1	female	endometrial fluid
+SRR15561836	39	4	Human	No pregnancy	04-026-EF1	IDE19Y0039_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0039	female	endometrial biopsy
+SRR15561837	26	4	Human	Live birth	04-025-EF1	IDE19Y0451_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0451	female	endometrial biopsy
+SRR15561838	32	4	Human	No pregnancy	04-024-EF1	IDE19Y0033_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0033	female	endometrial biopsy
+SRR15561839	30	4	Human	No pregnancy	04-023-EF1	IDE19Y0031_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0031	female	endometrial biopsy
+SRR15561840	34	4	Human	No pregnancy	04-022-EF1	IDE19Y0447_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0447	female	endometrial biopsy
+SRR15561841	38	4	Human	No pregnancy	04-021-EF1	IDE19Y0438_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0438	female	endometrial biopsy
+SRR15561842	33	4	Human	Live birth	04-020-EF1	IDE19Y0468_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0468	female	endometrial biopsy
+SRR15561843	29	4	Human	Ectopic pregnancy	04-019-EF1	IDE19Y0425_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0425	female	endometrial biopsy
+SRR15561844	35	4	Human	No pregnancy	04-017-EF1	IDE19Y0356_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0356	female	endometrial biopsy
+SRR15561845	30	4	Human	No pregnancy	04-016-EF2	IDE19Y0040_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0040	female	endometrial biopsy
+SRR15561846	43	1	Human	Live birth	01-011-EF1	IDE19Y0446_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0446	female	endometrial biopsy
+SRR15561847	30	4	Human	NA: Not Applicable	04-016-EF1	IDE19Y0417_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0417	female	endometrial biopsy
+SRR15561848	36	4	Human	No pregnancy	04-014-EF1	IDE19Y0352_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0352	female	endometrial biopsy
+SRR15561849	35	4	Human	No pregnancy	04-013-EF1	IDE19Y0416_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0416	female	endometrial biopsy
+SRR15561850	40	4	Human	No pregnancy	04-012-EF1	IDE19Y0424_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0424	female	endometrial biopsy
+SRR15561851	37	4	Human	No pregnancy	04-011-EF1	IDE19Y0338_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0338	female	endometrial biopsy
+SRR15561852	33	4	Human	No pregnancy	04-010-EF1	IDE19Y0341_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0341	female	endometrial biopsy
+SRR15561853	38	4	Human	No pregnancy	04-009-EF1	IDE19Y0439_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0439	female	endometrial biopsy
+SRR15561854	NA	NA	Human	NA	Blank1-RUN9-2-LE	Blank1-RUN9-2-LE_S5XL-IGENOMIX-885-RUN9	Homo sapiens	Blank1-RUN9-2-LE	NA	NA
+SRR15561855	NA	NA	Human	NA	Blank2-RUN9-2-LE	Blank2-RUN9-2-LE_S5XL-IGENOMIX-885-RUN9	Homo sapiens	Blank2-RUN9-2-LE	NA	NA
+SRR15561856	NA	NA	Human	NA	NEG-PCR1-RUN8-LE	NEG-PCR1-RUN8-LE_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	NEG-PCR1-RUN8-LE	NA	NA
+SRR15561857	NA	NA	Human	NA	NEG-PCR2-RUN8-LE	NEG-PCR2-RUN8-LE_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	NEG-PCR2-RUN8-LE	NA	NA
+SRR15561858	28	4	Human	Live birth	04-008-EF1	IDE19Y0357_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0357	female	endometrial biopsy
+SRR15561859	NA	NA	Human	NA	NEG-RUN9-2-LE	NEG-RUN9-2-LE_S5XL-IGENOMIX-885-RUN9	Homo sapiens	NEG-RUN9-2-LE	NA	NA
+SRR15561860	NA	NA	Human	NA	Blank1-RUN8-LE	Blank1-RUN8-LE_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	Blank1-RUN8-LE	NA	NA
+SRR15561861	NA	NA	Human	NA	Blank2-RUN8-LE	Blank2-RUN8-LE_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	Blank2-RUN8-LE	NA	NA
+SRR15561862	NA	NA	Human	NA	Blank3-RUN8-LE	Blank3-RUN8-LE_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	Blank3-RUN8-LE	NA	NA
+SRR15561863	NA	NA	Human	NA	Blank4-RUN8-LE	Blank4-RUN8-LE_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	Blank4-RUN8-LE	NA	NA
+SRR15561864	NA	NA	Human	NA	NEG7-RUN7-LE	NEG7-RUN7-LE_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	NEG7-RUN7-LE	NA	NA
+SRR15561865	NA	NA	Human	NA	Blank1-RUN7-LE	Blank1-RUN7-LE_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	Blank1-RUN7-LE	NA	NA
+SRR15561866	NA	NA	Human	NA	Blank2-RUN7-LE	Blank2-RUN7-LE_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	Blank2-RUN7-LE	NA	NA
+SRR15561867	NA	NA	Human	NA	Blank3-RUN7-LE	Blank3-RUN7-LE_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	Blank3-RUN7-LE	NA	NA
+SRR15561868	NA	NA	Human	NA	Blank4-RUN7-LE	Blank4-RUN7-LE_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	Blank4-RUN7-LE	NA	NA
+SRR15561869	34	4	Human	Clinical miscarriage	04-007-EF1	IDE19Y0340_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0340	female	endometrial biopsy
+SRR15561870	NA	NA	Human	NA	NEG5-RUN5-LE	NEG5-RUN5-LE_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	NEG5-RUN5-LE	NA	NA
+SRR15561871	NA	NA	Human	NA	Blank1-RUN5-LE	Blank1-RUN5-LE_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	Blank1-RUN5-LE	NA	NA
+SRR15561872	NA	NA	Human	NA	Blank2-RUN5-LE	Blank2-RUN5-LE_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	Blank2-RUN5-LE	NA	NA
+SRR15561873	NA	NA	Human	NA	Blank3-RUN5-LE	Blank3-RUN5-LE_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	Blank3-RUN5-LE	NA	NA
+SRR15561874	NA	NA	Human	NA	Blank4-RUN4-LE	Blank4-RUN4-LE_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	Blank4-RUN4-LE	NA	NA
+SRR15561875	NA	NA	Human	NA	Blank4-RUN5-LE	Blank4-RUN5-LE_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	Blank4-RUN5-LE	NA	NA
+SRR15561876	NA	NA	Human	NA	NEG4-RUN4-LE	NEG4-RUN4-LE_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	NEG4-RUN4-LE	NA	NA
+SRR15561877	NA	NA	Human	NA	Blank1-RUN4-LE	Blank1-RUN4-LE_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	Blank1-RUN4-LE	NA	NA
+SRR15561878	NA	NA	Human	NA	Blank2-RUN4-LE	Blank2-RUN4-LE_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	Blank2-RUN4-LE	NA	NA
+SRR15561879	NA	NA	Human	NA	Blank3-RUN1-LE	Blank3-RUN1-LE_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	Blank3-RUN1-LE	NA	NA
+SRR15561880	36	4	Human	Live birth	04-006-EF1	IDE19Y0426_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0426	female	endometrial biopsy
+SRR15561881	35	1	Human	Clinical miscarriage	01-009-EF1	IDE19Y0415_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0415	female	endometrial biopsy
+SRR15561882	NA	NA	Human	NA	Blank3-RUN4-LE	Blank3-RUN4-LE_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	Blank3-RUN4-LE	NA	NA
+SRR15561883	NA	NA	Human	NA	Blank4-RUN1-LE	Blank4-RUN1-LE_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	Blank4-RUN1-LE	NA	NA
+SRR15561884	32	2	Human	No pregnancy	02-018-EF1	IDE19Y0084_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0084	female	endometrial biopsy
+SRR15561885	44	2	Human	Live birth	02-020-EF1	2RMA020LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	2RMA020LE1	female	endometrial fluid
+SRR15561886	36	2	Human	No pregnancy	02-019-EF1	2RMA019LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	2RMA019LE1	female	endometrial fluid
+SRR15561887	32	2	Human	No pregnancy	02-018-EF1	2RMA018LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	2RMA018LE1	female	endometrial fluid
+SRR15561888	33	2	Human	Live birth	02-017-EF1	2RMA017LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	2RMA017LE1	female	endometrial fluid
+SRR15561889	33	2	Human	Live birth	02-016-EF1	2RMA016LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	2RMA016LE1	female	endometrial fluid
+SRR15561890	45	2	Human	No pregnancy	02-015-EF1	2RMA015LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	2RMA015LE1	female	endometrial fluid
+SRR15561891	40	2	Human	Live birth	02-014-EF1	2RMA014LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	2RMA014LE1	female	endometrial fluid
+SRR15561892	40	2	Human	Live birth	02-013-EF1	2RMA013LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	2RMA013LE1	female	endometrial fluid
+SRR15561893	35	2	Human	Live birth	02-011-EF1	2RMA011LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	2RMA011LE1	female	endometrial fluid
+SRR15561894	36	2	Human	Biochemical pregnancy	02-010-EF1	2RMA010LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	2RMA010LE1	female	endometrial fluid
+SRR15561895	33	2	Human	Live birth	02-017-EF1	IDE19Y0190_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0190	female	endometrial biopsy
+SRR15561896	31	2	Human	Biochemical pregnancy	02-009-EF1	2RMA009LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	2RMA009LE1	female	endometrial fluid
+SRR15561897	40	2	Human	Biochemical pregnancy	02-008-EF1	2RMA008LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	2RMA008LE1	female	endometrial fluid
+SRR15561898	33	2	Human	Clinical miscarriage	02-005-EF1	2RMA005LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	2RMA005LE1	female	endometrial fluid
+SRR15561899	32	2	Human	Live birth	02-004-EF1	2RMA004LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	2RMA004LE1	female	endometrial fluid
+SRR15561900	35	2	Human	Live birth	02-003-EF1	2RMA003LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	2RMA003LE1	female	endometrial fluid
+SRR15561901	35	2	Human	Live birth	02-002-EF1	2RMA002LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	2RMA002LE1	female	endometrial fluid
+SRR15561902	30	2	Human	Live birth	02-001-EF1	2RMA001LE1_NA	Homo sapiens	2RMA001LE1	female	endometrial fluid
+SRR15561903	29	1	Human	Live birth	01-030-EF1	1IVF030LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	1IVF030LE1	female	endometrial fluid
+SRR15561904	39	1	Human	Live birth	01-029-EF1	1IVF029LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	1IVF029LE1	female	endometrial fluid
+SRR15561905	38	1	Human	Clinical miscarriage	01-028-EF1	1IVF028LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	1IVF028LE1	female	endometrial fluid
+SRR15561906	33	2	Human	Live birth	02-016-EF1	IDE19Y0334_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0334	female	endometrial biopsy
+SRR15561907	30	1	Human	Live birth	01-027-EF1	1IVF027LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	1IVF027LE1	female	endometrial fluid
+SRR15561908	34	1	Human	Live birth	01-025-EF1	1IVF025LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	1IVF025LE1	female	endometrial fluid
+SRR15561909	38	1	Human	Live birth	01-023-EF1	1IVF023LE1_S5XL-00245-942-Run11	Homo sapiens	1IVF023LE1	female	endometrial fluid
+SRR15561910	33	1	Human	Live birth	01-022-EF1	1IVF022LE1_S5XL-00245-942-Run11	Homo sapiens	1IVF022LE1	female	endometrial fluid
+SRR15561911	24	1	Human	Clinical miscarriage	01-020-EF1	1IVF020LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	1IVF020LE1	female	endometrial fluid
+SRR15561912	43	1	Human	Biochemical pregnancy	01-019-EF1	1IVF019LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	1IVF019LE1	female	endometrial fluid
+SRR15561913	31	1	Human	Live birth	01-018-EF1	1IVF018LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	1IVF018LE1	female	endometrial fluid
+SRR15561914	40	1	Human	No pregnancy	01-017-EF1	1IVF017LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	1IVF017LE1	female	endometrial fluid
+SRR15561915	39	1	Human	No pregnancy	01-016-EF1	1IVF016LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	1IVF016LE1	female	endometrial fluid
+SRR15561916	34	1	Human	Clinical miscarriage	01-015-EF1	1IVF015LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	1IVF015LE1	female	endometrial fluid
+SRR15561917	45	2	Human	No pregnancy	02-015-EF1	IDE19Y0192_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0192	female	endometrial biopsy
+SRR15561918	36	1	Human	No pregnancy	01-014-EF1	1IVF014LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	1IVF014LE1	female	endometrial fluid
+SRR15561919	37	19	Human	Live birth	19-014-EF1	19014LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	19014LE1	female	endometrial fluid
+SRR15561920	28	19	Human	Biochemical pregnancy	19-013-EF1	19013LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	19013LE1	female	endometrial fluid
+SRR15561921	36	19	Human	No pregnancy	19-012-EF1	19012LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	19012LE1	female	endometrial fluid
+SRR15561922	39	19	Human	No pregnancy	19-009-EF1	19009LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	19009LE1	female	endometrial fluid
+SRR15561923	32	19	Human	No pregnancy	19-007-EF1	19007LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	19007LE1	female	endometrial fluid
+SRR15561924	34	19	Human	Ectopic pregnancy	19-006-EF1	19006LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	19006LE1	female	endometrial fluid
+SRR15561925	44	3	Human	No pregnancy	03-027-EF1	IDE19Y0330_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0330	female	endometrial biopsy
+SRR15561926	36	19	Human	Live birth	19-005-EF1	19005LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	19005LE1	female	endometrial fluid
+SRR15561927	32	17	Human	No pregnancy	17-057-EF1	17057LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	17057LE1	female	endometrial fluid
+SRR15561928	26	17	Human	Ongoing pregnancy	17-056-EF1	17056LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	17056LE1	female	endometrial fluid
+SRR15561929	37	17	Human	Clinical miscarriage	17-055-EF1	17055LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	17055LE1	female	endometrial fluid
+SRR15561930	29	17	Human	Clinical miscarriage	17-054-EF1	17054LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17054LE1	female	endometrial fluid
+SRR15561931	37	17	Human	Live birth	17-053-EF1	17053LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	17053LE1	female	endometrial fluid
+SRR15561932	31	17	Human	Live birth	17-052-EF1	17052LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17052LE1	female	endometrial fluid
+SRR15561933	34	17	Human	No pregnancy	17-051-EF1	17051LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17051LE1	female	endometrial fluid
+SRR15561934	32	17	Human	No pregnancy	17-050-EF1	17050LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17050LE1	female	endometrial fluid
+SRR15561935	36	17	Human	Live birth	17-049-EF1	17049LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17049LE1	female	endometrial fluid
+SRR15561936	40	3	Human	Ongoing pregnancy	03-023-EF1	IDE19Y0213_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0213	female	endometrial biopsy
+SRR15561937	31	17	Human	No pregnancy	17-048-EF1	17048LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17048LE1	female	endometrial fluid
+SRR15561938	37	17	Human	Live birth	17-047-EF1	17047LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17047LE1	female	endometrial fluid
+SRR15561939	34	17	Human	Live birth	17-046-EF1	17046LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	17046LE1	female	endometrial fluid
+SRR15561940	27	17	Human	No pregnancy	17-044-EF1	17044LE1_S5XL-00245-942-Run11	Homo sapiens	17044LE1	female	endometrial fluid
+SRR15561941	35	2	Human	Live birth	02-002-EF1	IDE19Y0014_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0014	female	endometrial biopsy
+SRR15561942	34	14	Human	Live birth	14-046-EF1	IDE19Y0224_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0224	female	endometrial biopsy
+SRR15561943	34	14	Human	NA: Not Applicable	14-045-EF1	IDE19Y0216_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0216	female	endometrial biopsy
+SRR15561944	34	14	Human	Live birth	14-045-EF2	IDE19S0004_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19S0004	female	endometrial biopsy
+SRR15561945	37	14	Human	No pregnancy	14-044-EF1	IDE19Y0201_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0201	female	endometrial biopsy
+SRR15561946	39	14	Human	Biochemical pregnancy	14-042-EF1	IDE19Y0227_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0227	female	endometrial biopsy
+SRR15561947	31	14	Human	Ongoing pregnancy	14-041-EF2	IDE19S0005_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19S0005	female	endometrial biopsy
+SRR15561948	31	14	Human	NA: Not Applicable	14-041-EF1	IDE19Y0185_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0185	female	endometrial biopsy
+SRR15561949	33	14	Human	Live birth	14-040-EF1	IDE19Y0453_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0453	female	endometrial biopsy
+SRR15561950	36	14	Human	Live birth	14-039-EF1	IDE19Y0107_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0107	female	endometrial biopsy
+SRR15561951	32	14	Human	Live birth	14-037-EF1	IDE19Y0089_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0089	female	endometrial biopsy
+SRR15561952	29	1	Human	Live birth	01-030-EF1	IDE19Y0191_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0191	female	endometrial biopsy
+SRR15561953	28	14	Human	Clinical miscarriage	14-036-EF1	IDE19Y0090_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0090	female	endometrial biopsy
+SRR15561954	32	14	Human	Live birth	14-035-EF1	IDE19Y0078_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0078	female	endometrial biopsy
+SRR15561955	31	14	Human	No pregnancy	14-034-EF1	IDE19Y0077_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0077	female	endometrial biopsy
+SRR15561956	32	14	Human	Live birth	14-032-EF1	IDE19Y0071_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0071	female	endometrial biopsy
+SRR15561957	32	14	Human	No pregnancy	14-031-EF1	IDE19Y0079_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0079	female	endometrial biopsy
+SRR15561958	32	14	Human	No pregnancy	14-030-EF1	IDE19Y0394_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0394	female	endometrial biopsy
+SRR15561959	35	14	Human	No pregnancy	14-029-EF1	IDE19Y0389_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0389	female	endometrial biopsy
+SRR15561960	39	14	Human	Live birth	14-028-EF1	IDE19Y0400_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0400	female	endometrial biopsy
+SRR15561961	36	14	Human	No pregnancy	14-026-EF1	IDE19Y0371_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0371	female	endometrial biopsy
+SRR15561962	29	14	Human	Live birth	14-025-EF1	IDE19Y0377_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0377	female	endometrial biopsy
+SRR15561963	39	1	Human	Live birth	01-029-EF1	IDE19Y0443_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0443	female	endometrial biopsy
+SRR15561964	35	14	Human	No pregnancy	14-024-EF1	IDE19Y0348_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0348	female	endometrial biopsy
+SRR15561965	31	17	Human	Live birth	17-043-EF1	17043LE1_S5XL-00245-942-Run11	Homo sapiens	17043LE1	female	endometrial fluid
+SRR15561966	39	17	Human	Live birth	17-041-EF1	17041LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	17041LE1	female	endometrial fluid
+SRR15561967	30	17	Human	No pregnancy	17-040-EF1	17040LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	17040LE1	female	endometrial fluid
+SRR15561968	37	17	Human	Live birth	17-039-EF1	17039LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	17039LE1	female	endometrial fluid
+SRR15561969	32	17	Human	Clinical miscarriage	17-038-EF1	17038LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	17038LE1	female	endometrial fluid
+SRR15561970	27	17	Human	No pregnancy	17-037-EF1	17037LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	17037LE1	female	endometrial fluid
+SRR15561971	44	3	Human	Live birth	03-021-EF1	IDE19Y0170_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0170	female	endometrial biopsy
+SRR15561972	27	17	Human	No pregnancy	17-035-EF1	17035LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	17035LE1	female	endometrial fluid
+SRR15561973	29	17	Human	No pregnancy	17-034-EF1	17034LE1_S5XL-00245-942-Run11	Homo sapiens	17034LE1	female	endometrial fluid
+SRR15561974	45	17	Human	No pregnancy	17-033-EF1	17033LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	17033LE1	female	endometrial fluid
+SRR15561975	34	17	Human	No pregnancy	17-032-EF1	17032LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	17032LE1	female	endometrial fluid
+SRR15561976	34	17	Human	No pregnancy	17-031-EF1	17031LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	17031LE1	female	endometrial fluid
+SRR15561977	32	17	Human	No pregnancy	17-030-EF1	17030LE1_S5XL-00245-942-Run11	Homo sapiens	17030LE1	female	endometrial fluid
+SRR15561978	28	17	Human	Live birth	17-029-EF1	17029LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	17029LE1	female	endometrial fluid
+SRR15561979	32	17	Human	Live birth	17-028-EF1	17028LE1_S5XL-00245-942-Run11	Homo sapiens	17028LE1	female	endometrial fluid
+SRR15561980	36	17	Human	No pregnancy	17-027-EF1	17027LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	17027LE1	female	endometrial fluid
+SRR15561981	21	17	Human	Live birth	17-025-EF1	17025LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	17025LE1	female	endometrial fluid
+SRR15561982	44	3	Human	Live birth	03-019-EF1	IDE19Y0166_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0166	female	endometrial biopsy
+SRR15561983	27	17	Human	Live birth	17-024-EF1	17024LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	17024LE1	female	endometrial fluid
+SRR15561984	34	17	Human	Live birth	17-036-EF2(17-023-EF2)	17036LE2_NA	Homo sapiens	17036LE2	female	endometrial fluid
+SRR15561985	39	17	Human	No pregnancy	17-022-EF1	17022LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	17022LE1	female	endometrial fluid
+SRR15561986	31	17	Human	No pregnancy	17-021-EF1	17021LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	17021LE1	female	endometrial fluid
+SRR15561987	32	17	Human	No pregnancy	17-020-EF1	17020LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	17020LE1	female	endometrial fluid
+SRR15561988	31	17	Human	Live birth	17-019-EF1	17019LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	17019LE1	female	endometrial fluid
+SRR15561989	34	17	Human	Live birth	17-018-EF1	17018LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	17018LE1	female	endometrial fluid
+SRR15561990	30	17	Human	No pregnancy	17-017-EF1	17017LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	17017LE1	female	endometrial fluid
+SRR15561991	34	17	Human	Live birth	17-016-EF1	17016LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	17016LE1	female	endometrial fluid
+SRR15561992	36	17	Human	No pregnancy	17-015-EF1	17015LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	17015LE1	female	endometrial fluid
+SRR15561993	42	3	Human	No pregnancy	03-018-EF1	IDE19Y0120_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0120	female	endometrial biopsy
+SRR15561994	37	17	Human	Live birth	17-014-EF1	17014LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	17014LE1	female	endometrial fluid
+SRR15561995	32	17	Human	Live birth	17-013-EF1	17013LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17013LE1	female	endometrial fluid
+SRR15561996	34	17	Human	Live birth	17-012-EF1	17012LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17012LE1	female	endometrial fluid
+SRR15561997	40	17	Human	Live birth	17-011-EF1	17011LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17011LE1	female	endometrial fluid
+SRR15561998	35	17	Human	No pregnancy	17-010-EF1	17010LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17010LE1	female	endometrial fluid
+SRR15561999	37	17	Human	Live birth	17-009-EF1	17009LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17009LE1	female	endometrial fluid
+SRR15562000	29	17	Human	Live birth	17-008-EF1	17008LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17008LE1	female	endometrial fluid
+SRR15562001	32	17	Human	No pregnancy	17-007-EF1	17007LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	17007LE1	female	endometrial fluid
+SRR15562002	38	17	Human	Live birth	17-006-EF1	17006LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17006LE1	female	endometrial fluid
+SRR15562003	39	17	Human	Live birth	17-005-EF1	17005LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	17005LE1	female	endometrial fluid
+SRR15562004	40	3	Human	Live birth	03-017-EF1	IDE19Y0046_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0046	female	endometrial biopsy
+SRR15562005	39	17	Human	Clinical miscarriage	17-004-EF1	17004LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	17004LE1	female	endometrial fluid
+SRR15562006	31	17	Human	Clinical miscarriage	17-003-EF1	17003LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	17003LE1	female	endometrial fluid
+SRR15562007	34	17	Human	Live birth	17-002-EF1	17002LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	17002LE1	female	endometrial fluid
+SRR15562008	32	17	Human	Clinical miscarriage	17-001-EF1	17001LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	17001LE1	female	endometrial fluid
+SRR15562009	31	15	Human	Biochemical pregnancy	15-026-EF1	15026LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	15026LE1	female	endometrial fluid
+SRR15562010	40	15	Human	Ongoing pregnancy	15-025-EF1	15025LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	15025LE1	female	endometrial fluid
+SRR15562011	37	15	Human	Clinical miscarriage	15-024-EF1	15024LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	15024LE1	female	endometrial fluid
+SRR15562012	30	15	Human	Live birth	15-023-EF1	15023LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	15023LE1	female	endometrial fluid
+SRR15562013	34	15	Human	Live birth	15-022-EF1	15022LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	15022LE1	female	endometrial fluid
+SRR15562014	33	14	Human	No pregnancy	14-022-EF1	IDE19Y0354_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0354	female	endometrial biopsy
+SRR15562015	37	14	Human	Clinical miscarriage	14-021-EF1	IDE19Y0364_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0364	female	endometrial biopsy
+SRR15562016	37	14	Human	No pregnancy	14-020-EF1	IDE19Y0259_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0259	female	endometrial biopsy
+SRR15562017	32	14	Human	Live birth	14-019-EF1	IDE19Y0195_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0195	female	endometrial biopsy
+SRR15562018	32	14	Human	Live birth	14-018-EF1	IDE19Y0134_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0134	female	endometrial biopsy
+SRR15562019	32	14	Human	No pregnancy	14-016-EF1	IDE19Y0092_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0092	female	endometrial biopsy
+SRR15562020	33	14	Human	No pregnancy	14-014-EF1	IDE19Y0328_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0328	female	endometrial biopsy
+SRR15562021	36	14	Human	Live birth	14-013-EF1	IDE19Y0325_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0325	female	endometrial biopsy
+SRR15562022	33	14	Human	No pregnancy	14-011-EF1	IDE19Y0270_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0270	female	endometrial biopsy
+SRR15562023	30	1	Human	Live birth	01-027-EF1	IDE19Y0128_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0128	female	endometrial biopsy
+SRR15562024	41	1	Human	No pregnancy	01-002-EF2	IDE19Y0408_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0408	female	endometrial biopsy
+SRR15562025	33	14	Human	No pregnancy	14-011-EF2	IDE19Y0272_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0272	female	endometrial biopsy
+SRR15562026	32	14	Human	Biochemical pregnancy	14-010-EF1	IDE19Y0137_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0137	female	endometrial biopsy
+SRR15562027	39	14	Human	Live birth	14-009-EF1	IDE19Y0243_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0243	female	endometrial biopsy
+SRR15562028	34	14	Human	Live birth	14-008-EF1	IDE19Y0029_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0029	female	endometrial biopsy
+SRR15562029	40	14	Human	No pregnancy	14-007-EF1	IDE19Y0315_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0315	female	endometrial biopsy
+SRR15562030	32	14	Human	Live birth	14-006-EF1	IDE19Y0113_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0113	female	endometrial biopsy
+SRR15562031	36	14	Human	Live birth	14-005-EF1	IDE19Y0466_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0466	female	endometrial biopsy
+SRR15562032	36	11	Human	Live birth	11-022-EF1	IDE19Y0329_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0329	female	endometrial biopsy
+SRR15562033	32	11	Human	No pregnancy	11-018-EF1	IDE19Y0319_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0319	female	endometrial biopsy
+SRR15562034	48	11	Human	No pregnancy	11-017-EF1	IDE19Y0324_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0324	female	endometrial biopsy
+SRR15562035	37	1	Human	Live birth	01-026-EF1	IDE19S0009_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19S0009	female	endometrial biopsy
+SRR15562036	34	11	Human	No pregnancy	11-016-EF1	IDE19Y0299_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0299	female	endometrial biopsy
+SRR15562037	38	11	Human	No pregnancy	11-014-EF1	IDE19Y0043_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0043	female	endometrial biopsy
+SRR15562038	31	15	Human	Live birth	15-020-EF1	15020LE1_S5XL-00245-942-Run11	Homo sapiens	15020LE1	female	endometrial fluid
+SRR15562039	40	3	Human	Live birth	03-015-EF1	IDE19Y0022_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0022	female	endometrial biopsy
+SRR15562040	35	1	Human	Live birth	01-006-EF1	IDE19Y0335_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0335	female	endometrial biopsy
+SRR15562041	35	15	Human	Clinical miscarriage	15-019-EF1	15019LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	15019LE1	female	endometrial fluid
+SRR15562042	42	15	Human	Clinical miscarriage	15-018-EF1	15018LE1_S5XL-00245-942-Run11	Homo sapiens	15018LE1	female	endometrial fluid
+SRR15562043	36	15	Human	Live birth	15-017-EF2	15017LE2_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	15017LE2	female	endometrial fluid
+SRR15562044	36	15	Human	Live birth	15-016-EF1	15016LE1_S5XL-00245-942-Run11	Homo sapiens	15016LE1	female	endometrial fluid
+SRR15562045	30	15	Human	Live birth	15-013-EF1	15013LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	15013LE1	female	endometrial fluid
+SRR15562046	30	15	Human	Live birth	15-012-EF1	15012LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	15012LE1	female	endometrial fluid
+SRR15562047	31	15	Human	Live birth	15-010-EF1	15010LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	15010LE1	female	endometrial fluid
+SRR15562048	30	15	Human	Biochemical pregnancy	15-008-EF1	15008LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	15008LE1	female	endometrial fluid
+SRR15562049	34	15	Human	Live birth	15-007-EF1	15007LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	15007LE1	female	endometrial fluid
+SRR15562050	38	15	Human	Live birth	15-006-EF1	15006LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	15006LE1	female	endometrial fluid
+SRR15562051	30	3	Human	Live birth	03-013-EF1	IDE19Y0448_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0448	female	endometrial biopsy
+SRR15562052	32	15	Human	Live birth	15-005-EF1	15005LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	15005LE1	female	endometrial fluid
+SRR15562053	29	15	Human	Live birth	15-003-EF1	15003LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	15003LE1	female	endometrial fluid
+SRR15562054	33	15	Human	No pregnancy	15-002-EF1	15002LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	15002LE1	female	endometrial fluid
+SRR15562055	39	15	Human	No pregnancy	15-001-EF1	15001LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	15001LE1	female	endometrial fluid
+SRR15562056	34	14	Human	Live birth	14-046-EF1	14046LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	14046LE1	female	endometrial fluid
+SRR15562057	34	14	Human	NA: Not Applicable	14-045-EF1	14045LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14045LE1	female	endometrial fluid
+SRR15562058	34	14	Human	Live birth	14-045-EF2	14045LE2_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	14045LE2	female	endometrial fluid
+SRR15562059	37	14	Human	No pregnancy	14-044-EF1	14044LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14044LE1	female	endometrial fluid
+SRR15562060	39	14	Human	Biochemical pregnancy	14-042-EF1	14042LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14042LE1	female	endometrial fluid
+SRR15562061	31	14	Human	Ongoing pregnancy	14-041-EF2	14041LE2_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14041LE2	female	endometrial fluid
+SRR15562062	32	3	Human	Live birth	03-012-EF1	IDE19Y0445_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0445	female	endometrial biopsy
+SRR15562063	31	14	Human	NA: Not Applicable	14-041-EF1	14041LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14041LE1	female	endometrial fluid
+SRR15562064	33	14	Human	Live birth	14-040-EF1	14040LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14040LE1	female	endometrial fluid
+SRR15562065	36	14	Human	Live birth	14-039-EF1	14039LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14039LE1	female	endometrial fluid
+SRR15562066	32	14	Human	Live birth	14-037-EF1	14037LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	14037LE1	female	endometrial fluid
+SRR15562067	28	14	Human	Clinical miscarriage	14-036-EF1	14036LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	14036LE1	female	endometrial fluid
+SRR15562068	32	14	Human	Live birth	14-035-EF1	14035LE1_S5XL-00245-942-Run11	Homo sapiens	14035LE1	female	endometrial fluid
+SRR15562069	31	14	Human	No pregnancy	14-034-EF1	14034LE1_S5XL-00245-942-Run11	Homo sapiens	14034LE1	female	endometrial fluid
+SRR15562070	32	14	Human	Live birth	14-032-EF1	14032LE1_S5XL-00245-942-Run11	Homo sapiens	14032LE1	female	endometrial fluid
+SRR15562071	32	14	Human	No pregnancy	14-031-EF1	14031LE1_S5XL-00245-942-Run11	Homo sapiens	14031LE1	female	endometrial fluid
+SRR15562072	32	14	Human	No pregnancy	14-030-EF1	14030LE1_S5XL-00245-942-Run11	Homo sapiens	14030LE1	female	endometrial fluid
+SRR15562073	35	3	Human	NA: Not Applicable	03-011-EF1	IDE19Y0423_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0423	female	endometrial biopsy
+SRR15562074	35	14	Human	No pregnancy	14-029-EF1	14029LE1_S5XL-00245-942-Run11	Homo sapiens	14029LE1	female	endometrial fluid
+SRR15562075	39	14	Human	Live birth	14-028-EF1	14028LE1_S5XL-00245-942-Run11	Homo sapiens	14028LE1	female	endometrial fluid
+SRR15562076	36	14	Human	No pregnancy	14-026-EF1	14026LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14026LE1	female	endometrial fluid
+SRR15562077	29	14	Human	Live birth	14-025-EF1	14025LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14025LE1	female	endometrial fluid
+SRR15562078	35	14	Human	No pregnancy	14-024-EF1	14024LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14024LE1	female	endometrial fluid
+SRR15562079	33	14	Human	No pregnancy	14-022-EF1	14022LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14022LE1	female	endometrial fluid
+SRR15562080	37	14	Human	Clinical miscarriage	14-021-EF1	14021LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14021LE1	female	endometrial fluid
+SRR15562081	37	14	Human	No pregnancy	14-020-EF1	14020LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14020LE1	female	endometrial fluid
+SRR15562082	32	14	Human	Live birth	14-019-EF1	14019LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	14019LE1	female	endometrial fluid
+SRR15562083	32	14	Human	Live birth	14-018-EF1	14018LE1_S5XL-IGENOMIX-610-RUN24	Homo sapiens	14018LE1	female	endometrial fluid
+SRR15562084	35	3	Human	Live birth	NA	IDE19S0013_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19S0013	female	endometrial biopsy
+SRR15562085	32	14	Human	No pregnancy	14-016-EF1	14016LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	14016LE1	female	endometrial fluid
+SRR15562086	33	14	Human	No pregnancy	14-014-EF1	14014LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	14014LE1	female	endometrial fluid
+SRR15562087	39	11	Human	No pregnancy	11-012-EF1	IDE19Y0023_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0023	female	endometrial biopsy
+SRR15562088	42	11	Human	No pregnancy	11-011-EF1	IDE19Y0055_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0055	female	endometrial biopsy
+SRR15562089	37	11	Human	No pregnancy	11-008-EF1	IDE19Y0060_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0060	female	endometrial biopsy
+SRR15562090	33	11	Human	Live birth	11-007-EF1	IDE19S0020_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19S0020	female	endometrial biopsy
+SRR15562091	48	11	Human	No pregnancy	11-001-EF1	IDE19S0016_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19S0016	female	endometrial biopsy
+SRR15562092	31	10	Human	No pregnancy	10-028-EF1	IDE19Y0202_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0202	female	endometrial biopsy
+SRR15562093	44	10	Human	Live birth	10-026-EF1	IDE19Y0209_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0209	female	endometrial biopsy
+SRR15562094	36	10	Human	Live birth	10-024-EF1	IDE19Y0437_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0437	female	endometrial biopsy
+SRR15562095	38	1	Human	Live birth	01-023-EF1	IDE19Y0384_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0384	female	endometrial biopsy
+SRR15562096	44	10	Human	No pregnancy	10-023-EF1	IDE19Y0435_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0435	female	endometrial biopsy
+SRR15562097	44	10	Human	No pregnancy	10-022-EF1	IDE19Y0073_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0073	female	endometrial biopsy
+SRR15562098	41	10	Human	Ongoing pregnancy	10-021-EF1	IDE19Y0403_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0403	female	endometrial biopsy
+SRR15562099	37	10	Human	No pregnancy	10-020-EF1	IDE19Y0399_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0399	female	endometrial biopsy
+SRR15562100	45	10	Human	No pregnancy	10-018-EF1	IDE19Y0390_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0390	female	endometrial biopsy
+SRR15562101	41	10	Human	No pregnancy	10-017-EF1	IDE19Y0069_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0069	female	endometrial biopsy
+SRR15562102	29	10	Human	Live birth	10-015-EF1	IDE19Y0396_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0396	female	endometrial biopsy
+SRR15562103	41	10	Human	No pregnancy	10-014-EF1	IDE19Y0105_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0105	female	endometrial biopsy
+SRR15562104	45	10	Human	No pregnancy	10-013-EF1	IDE19Y0301_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0301	female	endometrial biopsy
+SRR15562105	41	10	Human	Live birth	10-012-EF1	IDE19Y0241_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0241	female	endometrial biopsy
+SRR15562106	33	1	Human	Live birth	01-022-EF1	IDE19Y0382_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0382	female	endometrial biopsy
+SRR15562107	42	10	Human	Live birth	10-011-EF1	IDE19Y0184_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0184	female	endometrial biopsy
+SRR15562108	39	10	Human	Live birth	10-010-EF1	IDE19Y0168_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0168	female	endometrial biopsy
+SRR15562109	45	10	Human	No pregnancy	10-009-EF1	IDE19Y0151_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0151	female	endometrial biopsy
+SRR15562110	37	10	Human	Biochemical pregnancy	10-008-EF1	IDE19Y0133_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0133	female	endometrial biopsy
+SRR15562111	36	14	Human	Live birth	14-013-EF1	14013LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	14013LE1	female	endometrial fluid
+SRR15562112	33	14	Human	No pregnancy	14-011-EF1	14011LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	14011LE1	female	endometrial fluid
+SRR15562113	33	14	Human	No pregnancy	14-011-EF2	14011LE2_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	14011LE2	female	endometrial fluid
+SRR15562114	32	14	Human	Biochemical pregnancy	14-010-EF1	14010LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	14010LE1	female	endometrial fluid
+SRR15562115	39	14	Human	Live birth	14-009-EF1	14009LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	14009LE1	female	endometrial fluid
+SRR15562116	34	14	Human	Live birth	14-008-EF1	14008LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	14008LE1	female	endometrial fluid
+SRR15562117	40	14	Human	No pregnancy	14-007-EF1	14007LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	14007LE1	female	endometrial fluid
+SRR15562118	32	14	Human	Live birth	14-006-EF1	14006LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	14006LE1	female	endometrial fluid
+SRR15562119	41	3	Human	No pregnancy	03-005-EF1	IDE19Y0290_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0290	female	endometrial biopsy
+SRR15562120	36	14	Human	Live birth	14-005-EF1	14005LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	14005LE1	female	endometrial fluid
+SRR15562121	30	14	Human	No pregnancy	14-004-EF1	14004LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	14004LE1	female	endometrial fluid
+SRR15562122	39	14	Human	No pregnancy	14-001-EF1	14001LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	14001LE1	female	endometrial fluid
+SRR15562123	36	11	Human	Live birth	11-022-EF1	11022LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	11022LE1	female	endometrial fluid
+SRR15562124	28	11	Human	No pregnancy	11-019-EF1	11019LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	11019LE1	female	endometrial fluid
+SRR15562125	32	11	Human	No pregnancy	11-018-EF1	11018LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	11018LE1	female	endometrial fluid
+SRR15562126	48	11	Human	No pregnancy	11-017-EF1	11017LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	11017LE1	female	endometrial fluid
+SRR15562127	34	11	Human	No pregnancy	11-016-EF1	11016LE1_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	11016LE1	female	endometrial fluid
+SRR15562128	38	11	Human	No pregnancy	11-014-EF1	11014LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	11014LE1	female	endometrial fluid
+SRR15562129	39	11	Human	No pregnancy	11-012-EF1	11012LE1_NA	Homo sapiens	11012LE1	female	endometrial fluid
+SRR15562130	38	2	Human	No pregnancy	02-046-EF1	IDE19Y0187_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0187	female	endometrial biopsy
+SRR15562131	42	11	Human	No pregnancy	11-011-EF1	11011LE1_NA	Homo sapiens	11011LE1	female	endometrial fluid
+SRR15562132	37	11	Human	No pregnancy	11-008-EF1	11008LE1_S5XL-IGENOMIX-155-RUN11	Homo sapiens	11008LE1	female	endometrial fluid
+SRR15562133	33	11	Human	Live birth	11-007-EF1	11007LE1_S5XL-IGENOMIX-155-RUN11	Homo sapiens	11007LE1	female	endometrial fluid
+SRR15562134	33	11	Human	Live birth	11-004-EF1	11004LE1_S5XL-IGENOMIX-110-Run	Homo sapiens	11004LE1	female	endometrial fluid
+SRR15562135	34	11	Human	Clinical miscarriage	11-003-EF1	11003LE1_S5XL-IGENOMIX-110-Run	Homo sapiens	11003LE1	female	endometrial fluid
+SRR15562136	35	10	Human	No pregnancy	10-007-EF1	IDE19Y0020_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0020	female	endometrial biopsy
+SRR15562137	43	10	Human	Live birth	10-004-EF1	IDE19Y0349_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0349	female	endometrial biopsy
+SRR15562138	43	10	Human	Biochemical pregnancy	10-003-EF1	IDE19Y0346_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0346	female	endometrial biopsy
+SRR15562139	38	10	Human	No pregnancy	10-002-EF1	IDE19Y0059_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0059	female	endometrial biopsy
+SRR15562140	28	9	Human	Ongoing pregnancy	09-058-EF1	IDE19Y0211_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0211	female	endometrial biopsy
+SRR15562141	37	9	Human	No pregnancy	09-057-EF1	IDE19Y0221_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0221	female	endometrial biopsy
+SRR15562142	24	1	Human	Clinical miscarriage	01-020-EF1	IDE19Y0246_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0246	female	endometrial biopsy
+SRR15562143	38	9	Human	Live birth	09-056-EF1	IDE19Y0206_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0206	female	endometrial biopsy
+SRR15562144	34	9	Human	Clinical miscarriage	09-055-EF1	IDE19Y0182_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0182	female	endometrial biopsy
+SRR15562145	34	9	Human	Ongoing pregnancy	09-051-EF1	IDE19Y0178_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0178	female	endometrial biopsy
+SRR15562146	40	9	Human	No pregnancy	09-049-EF1	IDE19Y0123_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0123	female	endometrial biopsy
+SRR15562147	41	9	Human	Ongoing pregnancy	09-048-EF1	IDE19Y0141_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0141	female	endometrial biopsy
+SRR15562148	28	9	Human	No pregnancy	09-046-EF1	IDE19Y0091_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0091	female	endometrial biopsy
+SRR15562149	41	9	Human	Live birth	09-043-EF1	IDE19Y0082_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0082	female	endometrial biopsy
+SRR15562150	29	9	Human	No pregnancy	09-042-EF1	IDE19Y0080_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0080	female	endometrial biopsy
+SRR15562151	45	9	Human	NA: Not Applicable	09-040-EF1	IDE19Y0267_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0267	female	endometrial biopsy
+SRR15562152	33	9	Human	No pregnancy	09-033-EF1	IDE19Y0316_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0316	female	endometrial biopsy
+SRR15562153	43	1	Human	Biochemical pregnancy	01-019-EF1	IDE19Y0186_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0186	female	endometrial biopsy
+SRR15562154	41	9	Human	Live birth	09-032-EF1	IDE19Y0111_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0111	female	endometrial biopsy
+SRR15562155	36	9	Human	Clinical miscarriage	09-027-EF1	IDE19Y0062_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0062	female	endometrial biopsy
+SRR15562156	38	9	Human	NA: Not Applicable	09-025-EF1	IDE19Y0429_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0429	female	endometrial biopsy
+SRR15562157	37	9	Human	No pregnancy	09-022-EF1	IDE19Y0441_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0441	female	endometrial biopsy
+SRR15562158	42	9	Human	Live birth	09-019-EF1	IDE19Y0050_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0050	female	endometrial biopsy
+SRR15562159	38	9	Human	Live birth	09-011-EF1	IDE19Y0021_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0021	female	endometrial biopsy
+SRR15562160	48	11	Human	No pregnancy	11-001-EF1	11001LE1_S5XL-IGENOMIX-110-Run	Homo sapiens	11001LE1	female	endometrial fluid
+SRR15562161	31	10	Human	No pregnancy	10-028-EF1	10028LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	10028LE1	female	endometrial fluid
+SRR15562162	37	10	Human	No pregnancy	10-027-EF1	10027LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	10027LE1	female	endometrial fluid
+SRR15562163	44	10	Human	Live birth	10-026-EF1	10026LE1_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	10026LE1	female	endometrial fluid
+SRR15562164	32	10	Human	No pregnancy	10-025-EF1	10025LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	10025LE1	female	endometrial fluid
+SRR15562165	26	2	Human	Live birth	02-045-EF1	IDE19Y0465_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0465	female	endometrial biopsy
+SRR15562166	36	10	Human	Live birth	10-024-EF1	10024LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	10024LE1	female	endometrial fluid
+SRR15562167	44	10	Human	No pregnancy	10-023-EF1	10023LE1_S5XL-00245-942-Run11	Homo sapiens	10023LE1	female	endometrial fluid
+SRR15562168	44	10	Human	No pregnancy	10-022-EF1	10022LE1_S5XL-IGENOMIX-706-RUN7-niERA-MB	Homo sapiens	10022LE1	female	endometrial fluid
+SRR15562169	41	10	Human	Ongoing pregnancy	10-021-EF1	10021LE1_S5XL-00245-942-Run11	Homo sapiens	10021LE1	female	endometrial fluid
+SRR15562170	37	10	Human	No pregnancy	10-020-EF1	10020LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	10020LE1	female	endometrial fluid
+SRR15562171	45	10	Human	No pregnancy	10-018-EF1	10018LE1_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	10018LE1	female	endometrial fluid
+SRR15562172	41	10	Human	No pregnancy	10-017-EF1	10017LE1_S5XL-IGENOMIX-695-RUN5-niERA-MB	Homo sapiens	10017LE1	female	endometrial fluid
+SRR15562173	29	10	Human	Live birth	10-015-EF1	10015LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	10015LE1	female	endometrial fluid
+SRR15562174	36	1	Human	Live birth	01-012-EF1	1IVF012LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	1IVF012LE1	female	endometrial fluid
+SRR15562175	43	1	Human	Live birth	01-011-EF1	1IVF011LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	1IVF011LE1	female	endometrial fluid
+SRR15562176	32	1	Human	Live birth	01-010-EF1	1IVF010LE1_S5XL-IGENOMIX-715-RUN8-niERA-MB	Homo sapiens	1IVF010LE1	female	endometrial fluid
+SRR15562177	35	1	Human	Clinical miscarriage	01-009-EF1	1IVF009LE1_S5XL-IGENOMIX-885-RUN9	Homo sapiens	1IVF009LE1	female	endometrial fluid
+SRR15562178	34	1	Human	No pregnancy	01-008-EF1	1IVF008LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	1IVF008LE1	female	endometrial fluid
+SRR15562179	39	1	Human	Live birth	01-007-EF1	1IVF007LE1_S5XL-IGENOMIX-691-RUN4-niERA-MB	Homo sapiens	1IVF007LE1	female	endometrial fluid
+SRR15562180	35	1	Human	Live birth	01-006-EF1	1IVF006LE1_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	1IVF006LE1	female	endometrial fluid
+SRR15562181	37	1	Human	Live birth	01-004-EF1	1IVF004LE1_S5XL-IGENOMIX-355-RUN18	Homo sapiens	1IVF004LE1	female	endometrial fluid
+SRR15562182	36	1	Human	No pregnancy	01-003-EF2	1IVF003LE2_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	1IVF003LE2	female	endometrial fluid
+SRR15562183	40	2	Human	Live birth	02-014-EF1	IDE19Y0244_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0244	female	endometrial biopsy
+SRR15562184	36	1	Human	NA: Not Applicable	01-003-EF1	1IVF003LE1_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	1IVF003LE1	female	endometrial fluid
+SRR15562185	41	1	Human	No pregnancy	01-002-EF2	1IVF002LE2_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	1IVF002LE2	female	endometrial fluid
+SRR15562186	41	1	Human	NA: Not Applicable	01-002-EF1	1IVF002LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	1IVF002LE1	female	endometrial fluid
+SRR15562187	NA	NA	Human	NA	NEG1-RUN1-LE	NEG1-RUN1-LE_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	NEG1-RUN1-LE	NA	NA
+SRR15562188	NA	NA	Human	NA	Blank1-RUN1-LE	Blank1-RUN1-LE_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	Blank1-RUN1-LE	NA	NA
+SRR15562189	NA	NA	Human	NA	Blank2-RUN1-LE	Blank2-RUN1-LE_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	Blank2-RUN1-LE	NA	NA
+SRR15562190	NA	NA	Human	NA	Blank4-RUN24-LE	Blank4-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank4-RUN24-LE	NA	NA
+SRR15562191	NA	NA	Human	NA	Blank5-RUN24-LE	Blank5-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank5-RUN24-LE	NA	NA
+SRR15562192	NA	NA	Human	NA	Blank6-RUN24-LE	Blank6-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank6-RUN24-LE	NA	NA
+SRR15562193	NA	NA	Human	NA	Blank7-RUN24-LE	Blank7-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank7-RUN24-LE	NA	NA
+SRR15562194	NA	NA	Human	NA	Blank8-RUN24-LE	Blank8-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank8-RUN24-LE	NA	NA
+SRR15562195	34	4	Human	No pregnancy	04-005-EF1	IDE19Y0331_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0331	female	endometrial biopsy
+SRR15562196	NA	NA	Human	NA	Blank1-RUN24-LE	Blank1-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank1-RUN24-LE	NA	NA
+SRR15562197	NA	NA	Human	NA	Blank2-RUN24-LE	Blank2-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank2-RUN24-LE	NA	NA
+SRR15562198	NA	NA	Human	NA	Blank3-RUN24-LE	Blank3-RUN24-LE_S5XL-IGENOMIX-610-RUN24	Homo sapiens	Blank3-RUN24-LE	NA	NA
+SRR15562199	NA	NA	Human	NA	Blank6-RUN18-2-LE	Blank6-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank6-RUN18-2-LE	NA	NA
+SRR15562200	NA	NA	Human	NA	Blank7-RUN18-2-LE	Blank7-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank7-RUN18-2-LE	NA	NA
+SRR15562201	NA	NA	Human	NA	Blank8-RUN18-2-LE	Blank8-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank8-RUN18-2-LE	NA	NA
+SRR15562202	NA	NA	Human	NA	NEG1-RUN18-2-LE	NEG1-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	NEG1-RUN18-2-LE	NA	NA
+SRR15562203	NA	NA	Human	NA	NEG2-RUN18-2-LE	NEG2-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	NEG2-RUN18-2-LE	NA	NA
+SRR15562204	NA	NA	Human	NA	Blank1-RUN12-2-LE	Blank1-RUN12-2-LE_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	Blank1-RUN12-2-LE	NA	NA
+SRR15562205	NA	NA	Human	NA	Blank1-RUN18-2-LE	Blank1-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank1-RUN18-2-LE	NA	NA
+SRR15562206	37	4	Human	No pregnancy	04-004-EF1	IDE19Y0313_NA	Homo sapiens	IDE19Y0313	female	endometrial biopsy
+SRR15562207	NA	NA	Human	NA	Blank2-RUN12-2-LE	Blank2-RUN12-2-LE_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	Blank2-RUN12-2-LE	NA	NA
+SRR15562208	NA	NA	Human	NA	Blank2-RUN18-2-LE	Blank2-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank2-RUN18-2-LE	NA	NA
+SRR15562209	NA	NA	Human	NA	Blank3-RUN12-2-LE	Blank3-RUN12-2-LE_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	Blank3-RUN12-2-LE	NA	NA
+SRR15562210	NA	NA	Human	NA	Blank3-RUN18-2-LE	Blank3-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank3-RUN18-2-LE	NA	NA
+SRR15562211	33	1	Human	Live birth	01-001-EF2	1IVF001LE2_S5XL-IGENOMIX-681-RUN1-niERA-MB	Homo sapiens	1IVF001LE2	female	endometrial fluid
+SRR15562212	33	1	Human	NA: Not Applicable	01-001-EF1	1IVF001LE1_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	1IVF001LE1	female	endometrial fluid
+SRR15562213	42	19	Human	No pregnancy	19-020-EF1	IDE19S0002_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19S0002	female	endometrial biopsy
+SRR15562214	34	19	Human	Live birth	19-016-EF1	IDE19Y0136_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0136	female	endometrial biopsy
+SRR15562215	37	19	Human	No pregnancy	19-015-EF2	IDE19S0006_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19S0006	female	endometrial biopsy
+SRR15562216	37	19	Human	Live birth	19-014-EF1	IDE19Y0074_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0074	female	endometrial biopsy
+SRR15562217	28	19	Human	Biochemical pregnancy	19-013-EF1	IDE19Y0139_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0139	female	endometrial biopsy
+SRR15562218	40	2	Human	Live birth	02-013-EF1	IDE19Y0025_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0025	female	endometrial biopsy
+SRR15562219	36	19	Human	No pregnancy	19-012-EF1	IDE19Y0387_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0387	female	endometrial biopsy
+SRR15562220	39	19	Human	No pregnancy	19-009-EF1	IDE19Y0122_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0122	female	endometrial biopsy
+SRR15562221	32	19	Human	No pregnancy	19-007-EF1	IDE19Y0260_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0260	female	endometrial biopsy
+SRR15562222	34	19	Human	Ectopic pregnancy	19-006-EF1	IDE19Y0284_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0284	female	endometrial biopsy
+SRR15562223	36	19	Human	Live birth	19-005-EF1	IDE19Y0286_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0286	female	endometrial biopsy
+SRR15562224	32	17	Human	No pregnancy	17-057-EF1	IDE19Y0218_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0218	female	endometrial biopsy
+SRR15562225	26	17	Human	Ongoing pregnancy	17-056-EF1	IDE19Y0226_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0226	female	endometrial biopsy
+SRR15562226	37	17	Human	Clinical miscarriage	17-055-EF1	IDE19Y0174_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0174	female	endometrial biopsy
+SRR15562227	29	17	Human	Clinical miscarriage	17-054-EF1	IDE19Y0155_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0155	female	endometrial biopsy
+SRR15562228	37	17	Human	Live birth	17-053-EF1	IDE19Y0146_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0146	female	endometrial biopsy
+SRR15562229	35	2	Human	Live birth	02-011-EF1	IDE19Y0047_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0047	female	endometrial biopsy
+SRR15562230	36	1	Human	NA: Not Applicable	01-003-EF1	IDE19Y0297_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0297	female	endometrial biopsy
+SRR15562231	31	17	Human	Live birth	17-052-EF1	IDE19Y0463_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0463	female	endometrial biopsy
+SRR15562232	34	17	Human	No pregnancy	17-051-EF1	IDE19Y0100_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0100	female	endometrial biopsy
+SRR15562233	32	17	Human	No pregnancy	17-050-EF1	IDE19Y0094_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0094	female	endometrial biopsy
+SRR15562234	36	17	Human	Live birth	17-049-EF1	IDE19Y0406_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0406	female	endometrial biopsy
+SRR15562235	NA	NA	Human	NA	Blank4-RUN12-2-LE	Blank4-RUN12-2-LE_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	Blank4-RUN12-2-LE	NA	NA
+SRR15562236	NA	NA	Human	NA	Blank4-RUN18-2-LE	Blank4-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank4-RUN18-2-LE	NA	NA
+SRR15562237	NA	NA	Human	NA	Blank5-RUN18-2-LE	Blank5-RUN18-2-LE_S5XL-IGENOMIX-355-RUN18	Homo sapiens	Blank5-RUN18-2-LE	NA	NA
+SRR15562238	NA	NA	Human	NA	NEG1-RUN12-2-LE	NEG1-RUN12-2-LE_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	NEG1-RUN12-2-LE	NA	NA
+SRR15562239	NA	NA	Human	NA	NEG2-RUN12-2-LE	NEG2-RUN12-2-LE_S5XL-IGENOMIX-177-MICROBIOMA	Homo sapiens	NEG2-RUN12-2-LE	NA	NA
+SRR15562240	NA	NA	Human	NA	POS-3-RUN11-2-LE	POS-3-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	POS-3-RUN11-2-LE	NA	NA
+SRR15562241	42	3	Human	No pregnancy	03-045-EF1	IDE19Y0205_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0205	female	endometrial biopsy
+SRR15562242	NA	NA	Human	NA	Blank1-RUN11-2-LE	Blank1-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	Blank1-RUN11-2-LE	NA	NA
+SRR15562243	NA	NA	Human	NA	Blank2-RUN11-2-LE	Blank2-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	Blank2-RUN11-2-LE	NA	NA
+SRR15562244	NA	NA	Human	NA	NEG-1-RUN11-2-LE	NEG-1-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	NEG-1-RUN11-2-LE	NA	NA
+SRR15562245	NA	NA	Human	NA	NEG-2-RUN11-2-LE	NEG-2-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	NEG-2-RUN11-2-LE	NA	NA
+SRR15562246	NA	NA	Human	NA	NEG-3-RUN11-2-LE	NEG-3-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	NEG-3-RUN11-2-LE	NA	NA
+SRR15562247	NA	NA	Human	NA	POS-1-RUN11-2-LE	POS-1-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	POS-1-RUN11-2-LE	NA	NA
+SRR15562248	NA	NA	Human	NA	POS-2-RUN11-2-LE	POS-2-RUN11-2-LE_S5XL-IGENOMIX-155-RUN11	Homo sapiens	POS-2-RUN11-2-LE	NA	NA
+SRR15562249	NA	NA	Human	NA	Blank1-ESEMMA20200204-1-1-BX	Blank1-ESEMMA20200204-1-1-BX_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	Blank1-ESEMMA20200204-1-1-BX	NA	NA
+SRR15562250	NA	NA	Human	NA	Blank2-ESEMMA20200204-1-1-BX	Blank2-ESEMMA20200204-1-1-BX_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	Blank2-ESEMMA20200204-1-1-BX	NA	NA
+SRR15562251	NA	NA	Human	NA	Blank3-ESEMMA20200204-1-1-BX	Blank3-ESEMMA20200204-1-1-BX_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	Blank3-ESEMMA20200204-1-1-BX	NA	NA
+SRR15562252	44	3	Human	No pregnancy	03-044-EF1	IDE19S0001_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19S0001	female	endometrial biopsy
+SRR15562253	NA	NA	Human	NA	C-EXT-ESEMMA20200204-1-1-BX	C-EXT-ESEMMA20200204-1-1-BX_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	C-EXT-ESEMMA20200204-1-1-BX	NA	NA
+SRR15562254	NA	NA	Human	NA	POS1-ESEMMA20200204-1-1-BX	POS1-ESEMMA20200204-1-1-BX_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	POS1-ESEMMA20200204-1-1-BX	NA	NA
+SRR15562255	NA	NA	Human	NA	POS2-ESEMMA20200204-1-1-BX	POS2-ESEMMA20200204-1-1-BX_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	POS2-ESEMMA20200204-1-1-BX	NA	NA
+SRR15562256	NA	NA	Human	NA	Blank3-ESEMMA20200128-1-1-BX	Blank3-ESEMMA20200128-1-1-BX_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	Blank3-ESEMMA20200128-1-1-BX	NA	NA
+SRR15562257	NA	NA	Human	NA	C-EXT-ESEMMA20200128-1-1-BX	C-EXT-ESEMMA20200128-1-1-BX_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	C-EXT-ESEMMA20200128-1-1-BX	NA	NA
+SRR15562258	NA	NA	Human	NA	POS1-ESEMMA20200128-1-1-BX	POS1-ESEMMA20200128-1-1-BX_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	POS1-ESEMMA20200128-1-1-BX	NA	NA
+SRR15562259	31	17	Human	No pregnancy	17-048-EF1	IDE19Y0404_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0404	female	endometrial biopsy
+SRR15562260	37	17	Human	Live birth	17-047-EF1	IDE19Y0398_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0398	female	endometrial biopsy
+SRR15562261	34	17	Human	Live birth	17-046-EF1	IDE19Y0385_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0385	female	endometrial biopsy
+SRR15562262	27	17	Human	No pregnancy	17-044-EF1	IDE19Y0373_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0373	female	endometrial biopsy
+SRR15562263	31	17	Human	Live birth	17-043-EF1	IDE19Y0369_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0369	female	endometrial biopsy
+SRR15562264	39	17	Human	Live birth	17-041-EF1	IDE19Y0367_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0367	female	endometrial biopsy
+SRR15562265	36	2	Human	Biochemical pregnancy	02-010-EF1	IDE19Y0459_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0459	female	endometrial biopsy
+SRR15562266	30	17	Human	No pregnancy	17-040-EF1	IDE19Y0363_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0363	female	endometrial biopsy
+SRR15562267	37	17	Human	Live birth	17-039-EF1	IDE19Y0360_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0360	female	endometrial biopsy
+SRR15562268	32	17	Human	Clinical miscarriage	17-038-EF1	IDE19Y0359_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0359	female	endometrial biopsy
+SRR15562269	27	17	Human	No pregnancy	17-037-EF1	IDE19Y0333_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0333	female	endometrial biopsy
+SRR15562270	27	17	Human	No pregnancy	17-035-EF1	IDE19Y0279_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0279	female	endometrial biopsy
+SRR15562271	29	17	Human	No pregnancy	17-034-EF1	IDE19Y0258_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0258	female	endometrial biopsy
+SRR15562272	45	17	Human	No pregnancy	17-033-EF1	IDE19Y0255_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0255	female	endometrial biopsy
+SRR15562273	34	17	Human	No pregnancy	17-032-EF1	IDE19Y0254_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0254	female	endometrial biopsy
+SRR15562274	34	17	Human	No pregnancy	17-031-EF1	IDE19Y0257_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0257	female	endometrial biopsy
+SRR15562275	32	17	Human	No pregnancy	17-030-EF1	IDE19Y0233_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0233	female	endometrial biopsy
+SRR15562276	31	2	Human	Biochemical pregnancy	02-009-EF1	IDE19Y0024_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0024	female	endometrial biopsy
+SRR15562277	28	17	Human	Live birth	17-029-EF1	IDE19Y0230_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0230	female	endometrial biopsy
+SRR15562278	32	17	Human	Live birth	17-028-EF1	IDE19Y0212_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0212	female	endometrial biopsy
+SRR15562279	36	17	Human	No pregnancy	17-027-EF1	IDE19Y0167_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0167	female	endometrial biopsy
+SRR15562280	21	17	Human	Live birth	17-025-EF1	IDE19Y0150_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0150	female	endometrial biopsy
+SRR15562281	27	17	Human	Live birth	17-024-EF1	IDE19Y0157_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0157	female	endometrial biopsy
+SRR15562282	34	17	Human	Live birth	17-023-EF2	IDE19Y0309_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0309	female	endometrial biopsy
+SRR15562283	NA	NA	Human	NA	POS2-ESEMMA20200128-1-1-BX	POS2-ESEMMA20200128-1-1-BX_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	POS2-ESEMMA20200128-1-1-BX	NA	NA
+SRR15562284	NA	NA	Human	NA	Blank1-ESEMMA20200122-1-1-BX	Blank1-ESEMMA20200122-1-1-BX_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	Blank1-ESEMMA20200122-1-1-BX	NA	NA
+SRR15562285	NA	NA	Human	NA	Blank1-ESEMMA20200128-1-1-BX	Blank1-ESEMMA20200128-1-1-BX_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	Blank1-ESEMMA20200128-1-1-BX	NA	NA
+SRR15562286	NA	NA	Human	NA	Blank2-ESEMMA20200122-1-1-BX	Blank2-ESEMMA20200122-1-1-BX_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	Blank2-ESEMMA20200122-1-1-BX	NA	NA
+SRR15562287	45	3	Human	Live birth	03-041-EF1	IDE19Y0436_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0436	female	endometrial biopsy
+SRR15562288	NA	NA	Human	NA	Blank2-ESEMMA20200128-1-1-BX	Blank2-ESEMMA20200128-1-1-BX_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	Blank2-ESEMMA20200128-1-1-BX	NA	NA
+SRR15562289	NA	NA	Human	NA	Blank3-ESEMMA20200122-1-1-BX	Blank3-ESEMMA20200122-1-1-BX_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	Blank3-ESEMMA20200122-1-1-BX	NA	NA
+SRR15562290	NA	NA	Human	NA	Blank1-RUN9-LE	Blank1-RUN9-LE_S5XL-IGENOMIX-110-Run	Homo sapiens	Blank1-RUN9-LE	NA	NA
+SRR15562291	NA	NA	Human	NA	C-EXT-ESEMMA20191108-1-1-BX	C-EXT-ESEMMA20191108-1-1-BX_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	C-EXT-ESEMMA20191108-1-1-BX	NA	NA
+SRR15562292	NA	NA	Human	NA	NEG-RUN9-LE	NEG-RUN9-LE_S5XL-IGENOMIX-110-Run	Homo sapiens	NEG-RUN9-LE	NA	NA
+SRR15562293	NA	NA	Human	NA	POS1-ESEMMA20191108-1-1-BX	POS1-ESEMMA20191108-1-1-BX_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	POS1-ESEMMA20191108-1-1-BX	NA	NA
+SRR15562294	NA	NA	Human	NA	POS2-ESEMMA20191108-1-1-BX	POS2-ESEMMA20191108-1-1-BX_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	POS2-ESEMMA20191108-1-1-BX	NA	NA
+SRR15562295	NA	NA	Human	NA	POS-RUN9-LE	POS-RUN9-LE_S5XL-IGENOMIX-110-Run	Homo sapiens	POS-RUN9-LE	NA	NA
+SRR15562296	NA	NA	Human	NA	Blank1-ESEMMA20191108-1-1-BX	Blank1-ESEMMA20191108-1-1-BX_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	Blank1-ESEMMA20191108-1-1-BX	NA	NA
+SRR15562297	NA	NA	Human	NA	Blank2-ESEMMA20191108-1-1-BX	Blank2-ESEMMA20191108-1-1-BX_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	Blank2-ESEMMA20191108-1-1-BX	NA	NA
+SRR15562298	40	3	Human	Live birth	03-040-EF1	IDE19Y0147_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0147	female	endometrial biopsy
+SRR15562299	NA	NA	Human	NA	Blank3-ESEMMA20191108-1-1-BX	Blank3-ESEMMA20191108-1-1-BX_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	Blank3-ESEMMA20191108-1-1-BX	NA	NA
+SRR15562300	NA	NA	Human	NA	NEG-RUN13-LE	NEG-RUN13-LE_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	NEG-RUN13-LE	NA	NA
+SRR15562301	NA	NA	Human	NA	POS-RUN13-LE	POS-RUN13-LE_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	POS-RUN13-LE	NA	NA
+SRR15562302	NA	NA	Human	NA	Blank1-RUN13-LE	Blank1-RUN13-LE_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	Blank1-RUN13-LE	NA	NA
+SRR15562303	NA	NA	Human	NA	Blank2-RUN13-LE	Blank2-RUN13-LE_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	Blank2-RUN13-LE	NA	NA
+SRR15562304	NA	NA	Human	NA	Blank3-ESEMMA20191030-1-1-BX	Blank3-ESEMMA20191030-1-1-BX_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	Blank3-ESEMMA20191030-1-1-BX	NA	NA
+SRR15562305	NA	NA	Human	NA	Blank3-RUN13-LE	Blank3-RUN13-LE_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	Blank3-RUN13-LE	NA	NA
+SRR15562306	NA	NA	Human	NA	Blank4-RUN13-LE	Blank4-RUN13-LE_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	Blank4-RUN13-LE	NA	NA
+SRR15562307	34	17	Human	NA: Not Applicable	17-023-EF1	IDE19Y0144_S5XL-IGENOMIX-1173-ESEMMA20200128-1-1	Homo sapiens	IDE19Y0144	female	endometrial biopsy
+SRR15562308	39	17	Human	No pregnancy	17-022-EF1	IDE19Y0099_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0099	female	endometrial biopsy
+SRR15562309	31	17	Human	No pregnancy	17-021-EF1	IDE19Y0101_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0101	female	endometrial biopsy
+SRR15562310	32	17	Human	No pregnancy	17-020-EF1	IDE19Y0339_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0339	female	endometrial biopsy
+SRR15562311	33	2	Human	Clinical miscarriage	02-005-EF1	IDE19Y0298_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0298	female	endometrial biopsy
+SRR15562312	31	17	Human	Live birth	17-019-EF1	IDE19Y0064_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0064	female	endometrial biopsy
+SRR15562313	34	17	Human	Live birth	17-018-EF1	IDE19Y0337_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0337	female	endometrial biopsy
+SRR15562314	30	17	Human	No pregnancy	17-017-EF1	IDE19Y0067_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0067	female	endometrial biopsy
+SRR15562315	34	17	Human	Live birth	17-016-EF1	IDE19Y0321_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0321	female	endometrial biopsy
+SRR15562316	36	17	Human	No pregnancy	17-015-EF1	IDE19Y0323_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0323	female	endometrial biopsy
+SRR15562317	37	17	Human	Live birth	17-014-EF1	IDE19Y0296_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0296	female	endometrial biopsy
+SRR15562318	32	17	Human	Live birth	17-013-EF1	IDE19Y0278_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0278	female	endometrial biopsy
+SRR15562319	34	17	Human	Live birth	17-012-EF1	IDE19Y0275_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0275	female	endometrial biopsy
+SRR15562320	40	17	Human	Live birth	17-011-EF1	IDE19Y0273_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0273	female	endometrial biopsy
+SRR15562321	35	17	Human	No pregnancy	17-010-EF1	IDE19Y0252_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0252	female	endometrial biopsy
+SRR15562322	32	2	Human	NA: Not Applicable	02-004-EF2	IDE19S0010_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19S0010	female	endometrial biopsy
+SRR15562323	37	17	Human	Live birth	17-009-EF1	IDE19Y0251_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0251	female	endometrial biopsy
+SRR15562324	29	17	Human	Live birth	17-008-EF1	IDE19Y0261_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0261	female	endometrial biopsy
+SRR15562325	32	17	Human	No pregnancy	17-007-EF1	IDE19Y0247_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0247	female	endometrial biopsy
+SRR15562326	38	17	Human	Live birth	17-006-EF1	IDE19Y0238_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0238	female	endometrial biopsy
+SRR15562327	39	17	Human	Live birth	17-005-EF1	IDE19Y0018_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0018	female	endometrial biopsy
+SRR15562328	39	17	Human	Clinical miscarriage	17-004-EF1	IDE19Y0017_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0017	female	endometrial biopsy
+SRR15562329	31	17	Human	Clinical miscarriage	17-003-EF1	IDE19Y0130_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0130	female	endometrial biopsy
+SRR15562330	34	17	Human	Live birth	17-002-EF1	IDE19Y0119_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0119	female	endometrial biopsy
+SRR15562331	NA	NA	Human	NA	C-EXT-ESEMMA20191030-1-1-BX	C-EXT-ESEMMA20191030-1-1-BX_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	C-EXT-ESEMMA20191030-1-1-BX	NA	NA
+SRR15562332	NA	NA	Human	NA	POS1-ESEMMA20191030-1-1-BX	POS1-ESEMMA20191030-1-1-BX_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	POS1-ESEMMA20191030-1-1-BX	NA	NA
+SRR15562333	32	3	Human	No pregnancy	03-039-EF1	IDE19Y0149_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0149	female	endometrial biopsy
+SRR15562334	NA	NA	Human	NA	POS2-ESEMMA20191030-1-1-BX	POS2-ESEMMA20191030-1-1-BX_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	POS2-ESEMMA20191030-1-1-BX	NA	NA
+SRR15562335	NA	NA	Human	NA	Blank1-ESEMMA20191030-1-1-BX	Blank1-ESEMMA20191030-1-1-BX_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	Blank1-ESEMMA20191030-1-1-BX	NA	NA
+SRR15562336	NA	NA	Human	NA	Blank1-RUN12-LE	Blank1-RUN12-LE_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	Blank1-RUN12-LE	NA	NA
+SRR15562337	NA	NA	Human	NA	Blank2-ESEMMA20191030-1-1-BX	Blank2-ESEMMA20191030-1-1-BX_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	Blank2-ESEMMA20191030-1-1-BX	NA	NA
+SRR15562338	NA	NA	Human	NA	Blank2-RUN12-LE	Blank2-RUN12-LE_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	Blank2-RUN12-LE	NA	NA
+SRR15562339	NA	NA	Human	NA	NEG-RUN12-LE	NEG-RUN12-LE_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	NEG-RUN12-LE	NA	NA
+SRR15562340	NA	NA	Human	NA	POS-RUN12-LE	POS-RUN12-LE_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	POS-RUN12-LE	NA	NA
+SRR15562341	NA	NA	Human	NA	Blank1-ESEMMA20191014-1-1-BX	Blank1-ESEMMA20191014-1-1-BX_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	Blank1-ESEMMA20191014-1-1-BX	NA	NA
+SRR15562342	NA	NA	Human	NA	Blank2-ESEMMA20191014-1-1-BX	Blank2-ESEMMA20191014-1-1-BX_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	Blank2-ESEMMA20191014-1-1-BX	NA	NA
+SRR15562343	NA	NA	Human	NA	Blank3-ESEMMA20191014-1-1-BX	Blank3-ESEMMA20191014-1-1-BX_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	Blank3-ESEMMA20191014-1-1-BX	NA	NA
+SRR15562344	40	3	Human	No pregnancy	03-038-EF1	IDE19Y0096_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0096	female	endometrial biopsy
+SRR15562345	NA	NA	Human	NA	C-EXT-ESEMMA20191014-1-1-BX	C-EXT-ESEMMA20191014-1-1-BX_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	C-EXT-ESEMMA20191014-1-1-BX	NA	NA
+SRR15562346	NA	NA	Human	NA	POS1-ESEMMA20191014-1-1-BX	POS1-ESEMMA20191014-1-1-BX_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	POS1-ESEMMA20191014-1-1-BX	NA	NA
+SRR15562347	NA	NA	Human	NA	POS2-ESEMMA20191014-1-1-BX	POS2-ESEMMA20191014-1-1-BX_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	POS2-ESEMMA20191014-1-1-BX	NA	NA
+SRR15562348	NA	NA	Human	NA	Blank1-RUN11-LE	Blank1-RUN11-LE_S5XL-00245-942-Run11	Homo sapiens	Blank1-RUN11-LE	NA	NA
+SRR15562349	NA	NA	Human	NA	Blank2-RUN11-LE	Blank2-RUN11-LE_S5XL-00245-942-Run11	Homo sapiens	Blank2-RUN11-LE	NA	NA
+SRR15562350	NA	NA	Human	NA	NEG-RUN11-LE	NEG-RUN11-LE_S5XL-00245-942-Run11	Homo sapiens	NEG-RUN11-LE	NA	NA
+SRR15562351	NA	NA	Human	NA	POS1-ESEMMA20191001-1-1-BX	POS1-ESEMMA20191001-1-1-BX_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	POS1-ESEMMA20191001-1-1-BX	NA	NA
+SRR15562352	NA	NA	Human	NA	POS2-ESEMMA20191001-1-1-BX	POS2-ESEMMA20191001-1-1-BX_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	POS2-ESEMMA20191001-1-1-BX	NA	NA
+SRR15562353	NA	NA	Human	NA	POS-RUN11-LE	POS-RUN11-LE_S5XL-00245-942-Run11	Homo sapiens	POS-RUN11-LE	NA	NA
+SRR15562354	NA	NA	Human	NA	Blank1-ESEMMA20191001-1-1-BX	Blank1-ESEMMA20191001-1-1-BX_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	Blank1-ESEMMA20191001-1-1-BX	NA	NA
+SRR15562355	32	17	Human	Clinical miscarriage	17-001-EF1	IDE19Y0056_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0056	female	endometrial biopsy
+SRR15562356	31	15	Human	Biochemical pregnancy	15-026-EF1	IDE19Y0204_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0204	female	endometrial biopsy
+SRR15562357	32	2	Human	Live birth	02-004-EF1	IDE19Y0293_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0293	female	endometrial biopsy
+SRR15562358	40	15	Human	Ongoing pregnancy	15-025-EF1	IDE19Y0461_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0461	female	endometrial biopsy
+SRR15562359	37	15	Human	Clinical miscarriage	15-024-EF1	IDE19Y0132_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0132	female	endometrial biopsy
+SRR15562360	30	15	Human	Live birth	15-023-EF1	IDE19Y0214_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0214	female	endometrial biopsy
+SRR15562361	34	15	Human	Live birth	15-022-EF1	IDE19Y0131_S5XL-IGENOMIX-1162-ESEMMA20200122-1-1	Homo sapiens	IDE19Y0131	female	endometrial biopsy
+SRR15562362	31	15	Human	Live birth	15-020-EF1	IDE19Y0086_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0086	female	endometrial biopsy
+SRR15562363	35	15	Human	Clinical miscarriage	15-019-EF1	IDE19Y0072_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0072	female	endometrial biopsy
+SRR15562364	42	15	Human	Clinical miscarriage	15-018-EF1	IDE19Y0068_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0068	female	endometrial biopsy
+SRR15562365	36	15	Human	Live birth	15-017-EF2	IDE19Y0075_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0075	female	endometrial biopsy
+SRR15562366	36	15	Human	NA: Not Applicable	15-017-EF1	IDE19Y0386_S5XL-IGENOMIX-1182-ESEMMA20200204-1-1	Homo sapiens	IDE19Y0386	female	endometrial biopsy
+SRR15562367	36	15	Human	Live birth	15-016-EF1	IDE19Y0383_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0383	female	endometrial biopsy
+SRR15562368	35	2	Human	Live birth	02-003-EF1	IDE19Y0410_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0410	female	endometrial biopsy
+SRR15562369	30	15	Human	Live birth	15-013-EF1	IDE19Y0375_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0375	female	endometrial biopsy
+SRR15562370	30	15	Human	Live birth	15-012-EF1	IDE19Y0370_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0370	female	endometrial biopsy
+SRR15562371	31	15	Human	Live birth	15-010-EF1	IDE19Y0199_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0199	female	endometrial biopsy
+SRR15562372	30	15	Human	Biochemical pregnancy	15-008-EF1	IDE19Y0129_S5XL-IGENOMIX-1057-ESEMMA20191108-1-1	Homo sapiens	IDE19Y0129	female	endometrial biopsy
+SRR15562373	34	15	Human	Live birth	15-007-EF1	IDE19Y0041_S5XL-00245-955-ESEMMA20191014-1-1	Homo sapiens	IDE19Y0041	female	endometrial biopsy
+SRR15562374	38	15	Human	Live birth	15-006-EF1	IDE19Y0312_S5XL-00245-982-ESEMMA20191030-1-1	Homo sapiens	IDE19Y0312	female	endometrial biopsy
+SRR15562375	32	15	Human	Live birth	15-005-EF1	IDE19Y0433_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0433	female	endometrial biopsy
+SRR15562376	29	15	Human	Live birth	15-003-EF1	IDE19Y0355_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0355	female	endometrial biopsy
+SRR15562377	33	15	Human	No pregnancy	15-002-EF1	IDE19Y0351_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0351	female	endometrial biopsy
+SRR15562378	39	15	Human	No pregnancy	15-001-EF1	IDE19Y0326_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	IDE19Y0326	female	endometrial biopsy
+SRR15562379	40	3	Human	Live birth	03-037-EF1	IDE19Y0085_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0085	female	endometrial biopsy
+SRR15562380	NA	NA	Human	NA	Blank2-ESEMMA20191001-1-1-BX	Blank2-ESEMMA20191001-1-1-BX_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	Blank2-ESEMMA20191001-1-1-BX	NA	NA
+SRR15562381	NA	NA	Human	NA	Blank3-ESEMMA20191001-1-1-BX	Blank3-ESEMMA20191001-1-1-BX_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	Blank3-ESEMMA20191001-1-1-BX	NA	NA
+SRR15562382	NA	NA	Human	NA	C-EXT-ESEMMA20191001-1-1-BX	C-EXT-ESEMMA20191001-1-1-BX_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	C-EXT-ESEMMA20191001-1-1-BX	NA	NA
+SRR15562383	NA	NA	Human	NA	NEG-RUN10-LE	NEG-RUN10-LE_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	NEG-RUN10-LE	NA	NA
+SRR15562384	NA	NA	Human	NA	Blank1-RUN10-LE	Blank1-RUN10-LE_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	Blank1-RUN10-LE	NA	NA
+SRR15562385	NA	NA	Human	NA	Blank2-RUN10-LE	Blank2-RUN10-LE_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	Blank2-RUN10-LE	NA	NA
+SRR15562386	NA	NA	Human	NA	Blank3-RUN6-LE	Blank3-RUN6-LE_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	Blank3-RUN6-LE	NA	NA
+SRR15562387	NA	NA	Human	NA	Blank4-RUN6-LE	Blank4-RUN6-LE_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	Blank4-RUN6-LE	NA	NA
+SRR15562388	NA	NA	Human	NA	NEG6-RUN6-LE	NEG6-RUN6-LE_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	NEG6-RUN6-LE	NA	NA
+SRR15562389	NA	NA	Human	NA	Blank1-RUN6-LE	Blank1-RUN6-LE_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	Blank1-RUN6-LE	NA	NA
+SRR15562390	43	3	Human	Live birth	03-036-EF1	IDE19Y0083_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0083	female	endometrial biopsy
+SRR15562391	34	1	Human	No pregnancy	01-008-EF1	IDE19Y0411_S5XL-00245-940-ESEMMA20191001-1-1	Homo sapiens	IDE19Y0411	female	endometrial biopsy
+SRR15562392	NA	NA	Human	NA	Blank2-RUN6-LE	Blank2-RUN6-LE_S5XL-00245-798-RUN6-niERA-MB	Homo sapiens	Blank2-RUN6-LE	NA	NA
+SRR15562393	NA	NA	Human	NA	Blank3-RUN3-LE	Blank3-RUN3-LE_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	Blank3-RUN3-LE	NA	NA
+SRR15562394	NA	NA	Human	NA	Blank4-RUN3-LE	Blank4-RUN3-LE_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	Blank4-RUN3-LE	NA	NA
+SRR15562395	NA	NA	Human	NA	NEG3-RUN3-LE	NEG3-RUN3-LE_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	NEG3-RUN3-LE	NA	NA
+SRR15562396	NA	NA	Human	NA	Blank1-RUN3-LE	Blank1-RUN3-LE_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	Blank1-RUN3-LE	NA	NA
+SRR15562397	NA	NA	Human	NA	Blank2-RUN3-LE	Blank2-RUN3-LE_S5XL-00245-784-RUN3-niERA-MB	Homo sapiens	Blank2-RUN3-LE	NA	NA
+SRR15562398	NA	NA	Human	NA	Blank3-RUN2-LE	Blank3-RUN2-LE_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	Blank3-RUN2-LE	NA	NA
+SRR15562399	NA	NA	Human	NA	Blank4-RUN2-LE	Blank4-RUN2-LE_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	Blank4-RUN2-LE	NA	NA
+SRR15562400	NA	NA	Human	NA	NEG2-RUN2-LE	NEG2-RUN2-LE_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	NEG2-RUN2-LE	NA	NA
+SRR15562401	NA	NA	Human	NA	Blank1-RUN2-LE	Blank1-RUN2-LE_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	Blank1-RUN2-LE	NA	NA
+SRR15562402	44	3	Human	Live birth	03-034-EF1	IDE19Y0405_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	IDE19Y0405	female	endometrial biopsy
+SRR15562403	NA	NA	Human	NA	Blank2-RUN2-LE	Blank2-RUN2-LE_S5XL-00245-780-RUN2-niERA-MB	Homo sapiens	Blank2-RUN2-LE	NA	NA
+SRR15562404	NA	NA	Human	NA	POS1-ESEMMA20200302-1-1-BX	POS1-ESEMMA20200302-1-1-BX_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	POS1-ESEMMA20200302-1-1-BX	NA	NA
+SRR15562405	NA	NA	Human	NA	POS2-ESEMMA20200302-1-1-BX	POS2-ESEMMA20200302-1-1-BX_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	POS2-ESEMMA20200302-1-1-BX	NA	NA
+SRR15562406	NA	NA	Human	NA	Blank1-ESEMMA20200302-1-1-BX	Blank1-ESEMMA20200302-1-1-BX_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	Blank1-ESEMMA20200302-1-1-BX	NA	NA
+SRR15562407	NA	NA	Human	NA	Blank2-ESEMMA20200302-1-1-BX	Blank2-ESEMMA20200302-1-1-BX_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	Blank2-ESEMMA20200302-1-1-BX	NA	NA
+SRR15562408	NA	NA	Human	NA	Blank3-ESEMMA20200302-1-1-BX	Blank3-ESEMMA20200302-1-1-BX_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	Blank3-ESEMMA20200302-1-1-BX	NA	NA
+SRR15562409	NA	NA	Human	NA	C-EXT-ESEMMA20200302-1-1-BX	C-EXT-ESEMMA20200302-1-1-BX_S5XL-00245-1138-ESEMMA20200302-1-1_2270	Homo sapiens	C-EXT-ESEMMA20200302-1-1-BX	NA	NA
+SRR15562410	NA	NA	Human	NA	POS2-ESEMMA20200116-1-1-BX	POS2-ESEMMA20200116-1-1-BX_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	POS2-ESEMMA20200116-1-1-BX	NA	NA
+SRR15562411	NA	NA	Human	NA	Blank1-ESEMMA20200116-1-1-BX	Blank1-ESEMMA20200116-1-1-BX_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	Blank1-ESEMMA20200116-1-1-BX	NA	NA
+SRR15562412	NA	NA	Human	NA	Blank2-ESEMMA20200116-1-1-BX	Blank2-ESEMMA20200116-1-1-BX_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	Blank2-ESEMMA20200116-1-1-BX	NA	NA
+SRR15562413	49	3	Human	No pregnancy	03-032-EF1	IDE19Y0381_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0381	female	endometrial biopsy
+SRR15562414	NA	NA	Human	NA	Blank3-ESEMMA20200116-1-1-BX	Blank3-ESEMMA20200116-1-1-BX_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	Blank3-ESEMMA20200116-1-1-BX	NA	NA
+SRR15562415	NA	NA	Human	NA	C-EXT-ESEMMA20200116-1-1-BX	C-EXT-ESEMMA20200116-1-1-BX_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	C-EXT-ESEMMA20200116-1-1-BX	NA	NA
+SRR15562416	NA	NA	Human	NA	POS1-ESEMMA20200116-1-1-BX	POS1-ESEMMA20200116-1-1-BX_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	POS1-ESEMMA20200116-1-1-BX	NA	NA
+SRR15562417	NA	NA	Human	NA	POS2-ESEMMA20190924-1-1-BX	POS2-ESEMMA20190924-1-1-BX_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	POS2-ESEMMA20190924-1-1-BX	NA	NA
+SRR15562418	NA	NA	Human	NA	Blank1-ESEMMA20190924-1-1-BX	Blank1-ESEMMA20190924-1-1-BX_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	Blank1-ESEMMA20190924-1-1-BX	NA	NA
+SRR15562419	NA	NA	Human	NA	Blank2-ESEMMA20190924-1-1-BX	Blank2-ESEMMA20190924-1-1-BX_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	Blank2-ESEMMA20190924-1-1-BX	NA	NA
+SRR15562420	NA	NA	Human	NA	Blank3-ESEMMA20190924-1-1-BX	Blank3-ESEMMA20190924-1-1-BX_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	Blank3-ESEMMA20190924-1-1-BX	NA	NA
+SRR15562421	NA	NA	Human	NA	C-EXT-ESEMMA20190924-1-1-BX	C-EXT-ESEMMA20190924-1-1-BX_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	C-EXT-ESEMMA20190924-1-1-BX	NA	NA
+SRR15562422	NA	NA	Human	NA	POS1-ESEMMA20190924-1-1-BX	POS1-ESEMMA20190924-1-1-BX_GSS5PR-0157-130-ESEMMA20190924-1-1	Homo sapiens	POS1-ESEMMA20190924-1-1-BX	NA	NA
+SRR15562423	42	19	Human	No pregnancy	19-020-EF1	19020LE1_S5XL-00245-966-RUN12-niERA-MB	Homo sapiens	19020LE1	female	endometrial fluid
+SRR15562424	49	3	Human	No pregnancy	03-030-EF1	IDE19Y0265_S5XL-00245-1080-ESEMMA20200116-1-1	Homo sapiens	IDE19Y0265	female	endometrial biopsy
+SRR15562425	33	19	Human	No pregnancy	19-019-EF1	19019LE1_S5XL-00245-942-Run11	Homo sapiens	19019LE1	female	endometrial fluid
+SRR15562426	34	19	Human	Live birth	19-016-EF1	19016LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	19016LE1	female	endometrial fluid
+SRR15562427	37	19	Human	No pregnancy	19-015-EF2	19015LE2_S5XL-00245-986-RUN13-niERA-MB	Homo sapiens	19015LE2	female	endometrial fluid
+SRR15562428	37	19	Human	NA: Not Applicable	19-015-EF1	19015LE1_S5XL-00245-891-RUN10-niERA-MB	Homo sapiens	19015LE1	female	endometrial fluid
