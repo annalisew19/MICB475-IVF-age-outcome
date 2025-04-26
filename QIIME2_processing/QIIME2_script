@@ -39,7 +39,8 @@ qiime feature-table tabulate-seqs \
   --i-data ivf-rep-seqs.qza \
   --o-visualization ivf-rep-seqs.qzv
 
-# training classifier, trained over entire database because many variable regions sequenced by paper
+## Training classifier
+# Trained over entire database because many variable regions sequenced by paper
 qiime feature-classifier extract-reads \
   --i-sequences ref-otus.qza \ (replace this with the representative sequence file on server)
   --p-f-primer GTGCCAGCMGCCGCGGTAA \
@@ -53,7 +54,7 @@ qiime feature-classifier classify-sklearn \
   --i-reads ivf-rep-seqs.qza \
   --o-classification IVF_taxonomy.qza
 
-##DENOISING
+## FILTERING
 
 # filtering out mitochondria & chloroplast from table
 qiime taxa filter-table \
@@ -81,6 +82,8 @@ qiime feature-table summarize \
   --o-visualization ivf-filtered-table-no-age-NA.qzv \
   --m-sample-metadata-file /data/imported_from_server/IVF_metadata.tsv
 
+## PHYLOGENETIC ANALYSIS
+
 # generate a tree for phylogenetic diversity analyses
 qiime phylogeny align-to-tree-mafft-fasttree \
   --i-sequences ivf-rep-seqs.qza \
@@ -91,6 +94,8 @@ qiime phylogeny align-to-tree-mafft-fasttree \
   --i-table ivf-filtered-table-no-age-NA.qza \
   --o-visualization ivf-filtered-table-no-age-NA.qzv \
   --m-sample-metadata-file /data/imported_from_server/IVF_metadata.tsv
+
+## DIVERSITY ANALYSIS
 
 # alpha-rarefaction
 qiime diversity alpha-rarefaction \
@@ -123,6 +128,8 @@ qiime diversity alpha-group-significance \
   --i-alpha-diversity shannon_vector.qza \
   --m-metadata-file /data/imported_from_server/IVF_metadata.tsv \
   --o-visualization shannon_vector.qzv
+
+## EXPORTING
 
 # Exporting files 
 qiime tools export \
